@@ -52,7 +52,7 @@ TBD
 # Committees
 
 ## Workshop Co-chairs
-- JiaJia Li
+- Jiajia Li
 - Martin Ruefenacht
 
 ## Steering Committee
