@@ -23,7 +23,7 @@ Submitted manuscripts may not exceed 10 single-spaced double-column pages using
 10-point size font on 8.5x11 inch pages (IEEE conference style), including
 figures, tables, and references.
 
-[IPDPS 2022 Call for Papers]{https://www.ipdps.org/ipdps2022/2022-call-for-papers.html}
+[IPDPS 2022 Call for Papers](https://www.ipdps.org/ipdps2022/2022-call-for-papers.html)
 
 # Topics of Interest
 Topics of interest to the HIPS workshop include but are not limited to:
