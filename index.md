@@ -42,6 +42,8 @@ Topics of interest to the HIPS workshop include but are not limited to:
 - Efforts for improving the sustainability of scientific software 
 - Languages and runtime support for multi-science/coupled codes, including but not limited to ensemble computing and uncertainty quantification
 - New programming languages and constructs for exploiting parallelism and locality
+- Higher-level programming models or languages for quan- tum computing/quantum simulation
+- Efforts in programming models, environments, and ex- perience on emerging computer architectures, such as Cerebras, SambaNova, ARM, etc.
 
 # Registration
 TBD
