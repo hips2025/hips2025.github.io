@@ -12,9 +12,11 @@ programming models for large-scale parallel systems and many-core
 architectures.
 
 # Important Deadlines
-Submission due date: Early January 2022
-Author notification: Mid February 2022
-Camera-ready papers: End of February 2022
+Submission due date: January 28, 2022 Anywhere on Earth (AoE)
+
+Author notification: March 18, 2022 AoE
+
+Camera-ready papers: April 1, 2022 AoE
 
 # Submission
 The HIPS paper style is identical to the IPDPS paper style.
