@@ -1,3 +1,5 @@
+![IPDPS 2022 Logo](/assets/ipdpslogo22.jpeg)
+
 # Overview
 The 27th HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2022
 conference in Lyon, France and as virtual workshop, focuses on high-level
