@@ -14,9 +14,9 @@ architectures.
 # Important Deadlines
 Submission due date: January 28, 2022 Anywhere on Earth (AoE)
 
-Author notification: March 18, 2022 AoE
+Author notification: March 4th, 2022 AoE
 
-Camera-ready papers: April 1, 2022 AoE
+Camera-ready papers: March 15th, 2022 AoE
 
 # Submission
 The HIPS paper style is identical to the IPDPS paper style.
@@ -51,6 +51,8 @@ Topics of interest to the HIPS workshop include but are not limited to:
 TBD
 
 # Program
+May 30th, 2022
+
 TBD
 
 # Committees
@@ -70,4 +72,32 @@ TBD
 TBD
 
 # History
-[HIPS21](https://www.cs.wm.edu/~bren/HIPS_2021.htm)
+
+| Workshop                                                                       | Date            | Location                            |
+|--------------------------------------------------------------------------------|-----------------|-------------------------------------|
+| [26th HIPS 2021](https://www.cs.wm.edu/~bren/HIPS_2021.htm)                    | May 17th 2021   | Virtual                             | 
+| [25th HIPS 2020](https://faculty.ucmerced.edu/dong-li/HIPS_2020.htm)           | May 18th 2020   | New Orleans, Louisiana, USA         |
+| [24th HIPS 2019](https://hosting.cs.vt.edu/hips2019/)                          | May 20th 2019   | Rio de Janeiro, Brazil              |
+| [23rd HIPS 2018](http://hips2018.mnm-team.org/)                                | May 21st 2018   | Vancouver, British Columbia, Canada |
+| [22nd HIPS 2017](https://inside.mines.edu/~bwu/sites/HIPS2017/)                | May 29th 2017   | Orlando, FL, USA                    |
+| 21st HIPS 2016                                                                 | May 23rd 2016   | Chicago, IL, USA                    |
+| [20th HIPS 2015](https://hpc.pnl.gov/conf/hips/2015/)                          | May 25th 2015   | Hyderabad, India                    |
+| [19th HIPS 2014](https://www.eecis.udel.edu/~cavazos/hips/)                    | May 19th 2014   | Phoenix, AZ, USA                    |
+| 18th HIPS 2013                                                                 | May 20th 2013   | Boston, MA, USA                     |
+| 17th HIPS 2012                                                                 | May 21st 2012   | Shanghai, China                     |
+| [16th HIPS 2011](http://www.unixer.de/hips2011/)                               | May 20th 2011   | Anchorage, Alaska, USA              |
+| 15th HIPS 2010                                                                 | April 19th 2010 | Atlanta, GA, USA                    |
+| 14th HIPS 2009                                                                 | May 25th 2009   | Rome, Italy                         |
+| 13th HIPS 2008                                                                 | April 14th 2008 | Miami, FL, USA                      |
+| [12th HIPS 2007](https://www.cs.rochester.edu/~cding/Announcements/HIPS07/)    | March 26th 2007 | Long Beach, California, USA         |
+| 11th HIPS 2006                                                                 | April 25th 2006 | Rhodes Island, Greece               |
+| 10th HIPS 2005                                                                 | April 4th 2005  | Denver, Colorado, USA               |
+| 9th HIPS 2004                                                                  | April 26th 2004 | Santa Fe, New Mexico, USA           |
+| 8th HIPS 2003                                                                  | April 22nd 2003 | Nice, France                        |
+| 7th HIPS 2002                                                                  | April 15th 2002 | Fort Lauderdale, FL, USA            |
+| 6th HIPS 2001                                                                  | April 23rd 2001 | San Francisco, CA, USA              |
+| 5th HIPS 2000                                                                  | May 1st 2000    | Cancun, Mexico                      |
+| 4th HIPS 1999                                                                  | April 12th 1999 | San Juan, Puerto Rico, USA          |
+| 3rd HIPS 1998                                                                  | March 30th 1998 | Orlando, FL, USA                    |
+| 2nd HIPS 1997                                                                  | April 1st 1997  | Geneva, Switzerland                 |
+| 1st HIPS 1996                                                                  | April 16th 1996 | Honolulu, HI, USA                   |
