@@ -60,8 +60,8 @@ TBD
 # Committees
 
 ## Workshop Co-chairs
-- Jiajia Li
-- Martin Ruefenacht
+- Jiajia Li, College of William and Mary, jli49 at wm.edu
+- Martin Ruefenacht, Leibniz Supercomputing Centre, martin.ruefenacht at lrz.de
 
 ## Steering Committee
 - Rudolf Eigenmann, University of Delaware, USA
