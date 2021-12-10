@@ -73,7 +73,17 @@ TBD
 - Martin Schulz, Technische Universität München, Germany
 
 ## Program Committee
-TBD
+- Mehmet Esat Belviranli, Colorado School of Mines, USA
+- Huimin Cui, Institute of Computing Technology, Chinese Academy of Sciences, China
+- Anthony Danalis, University of Tennessee, USA
+- Bettina Heim, Microsoft, USA
+- Seyong Lee, Oak Ridge National Laboratory, USA
+- Ang Li, Pacific Northwest National Lab, USA
+- Reed M. Milewicz, Sandia National Laboratories, USA
+- Kenneth J. Roche, Pacific Northwest National Lab, USA
+- Sameer Shende, University of Oregon, USA
+- Zheng Wang, University of Leeds, United Kingdom
+- Jeffrey Young, Georgia Institute of Technology, USA
 
 # History
 
