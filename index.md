@@ -23,9 +23,9 @@ Camera-ready papers: March 15th, 2022 AoE
 # Submission
 The HIPS paper style is identical to the IPDPS paper style.
 
-Submitted manuscripts may not exceed 10 single-spaced double-column pages using
-10-point size font on 8.5x11 inch pages (IEEE conference style), including
-figures, tables, and references.
+**Full papers** may not exceed 10 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. 
+
+**Short papers** may not exceed 4 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. 
 
 [IPDPS 2022 Call for Papers](https://www.ipdps.org/ipdps2022/2022-call-for-papers.html)
 
