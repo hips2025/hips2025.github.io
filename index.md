@@ -29,6 +29,8 @@ figures, tables, and references.
 
 [IPDPS 2022 Call for Papers](https://www.ipdps.org/ipdps2022/2022-call-for-papers.html)
 
+[Submission Website](https://easychair.org/conferences/?conf=hips22)
+
 # Topics of Interest
 Topics of interest to the HIPS workshop include but are not limited to:
 - High-level and domain-specific programming systems
