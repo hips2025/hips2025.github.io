@@ -74,13 +74,17 @@ TBD
 
 ## Program Committee
 - Mehmet Esat Belviranli, Colorado School of Mines, USA
+- Guoyang Chen, Qualcomm Inc., USA
 - Huimin Cui, Institute of Computing Technology, Chinese Academy of Sciences, China
 - Anthony Danalis, University of Tennessee, USA
 - Bettina Heim, Microsoft, USA
+- Jianyu Huang, Facebook, USA
+- Pengcheng Li, Google, USA
 - Seyong Lee, Oak Ridge National Laboratory, USA
 - Ang Li, Pacific Northwest National Lab, USA
 - Reed M. Milewicz, Sandia National Laboratories, USA
 - Kenneth J. Roche, Pacific Northwest National Lab, USA
+- Piyush Sao, ORNL, USA
 - Sameer Shende, University of Oregon, USA
 - Zheng Wang, University of Leeds, United Kingdom
 - Jeffrey Young, Georgia Institute of Technology, USA
