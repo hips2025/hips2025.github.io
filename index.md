@@ -14,7 +14,7 @@ programming models for large-scale parallel systems and many-core
 architectures.
 
 # Important Deadlines
-Submission due date: January 28, 2022 Anywhere on Earth (AoE)
+Submission due date: February 11, 2022 (Extended) Anywhere on Earth (AoE)
 
 Author notification: March 4th, 2022 AoE
 
