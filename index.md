@@ -2,7 +2,7 @@
 
 # Overview
 The 27th HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2022
-conference in Lyon, France and as virtual workshop, focuses on high-level
+conference ~~in Lyon, France and~~ as a virtual workshop, focuses on high-level
 programming of multiprocessors, compute clusters, and massively parallel
 machines. Like previous workshops in the series, which was established in 1996,
 this event will serve as a forum for research in the areas of parallel
