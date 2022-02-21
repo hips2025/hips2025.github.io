@@ -1,4 +1,4 @@
-![IPDPS 2022 Logo](/assets/ipdpslogo22.jpeg)
+![IPDPS 2022 Logo](/assets/ipdpslogo2.jpg)
 
 # Overview
 The 27th HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2022
