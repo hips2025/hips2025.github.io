@@ -16,7 +16,7 @@ architectures.
 # Important Deadlines
 Submission due date: February 11, 2022 (Extended) Anywhere on Earth (AoE)
 
-Author notification: March 4th, 2022 AoE
+Author notification: March 7th, 2022 AoE
 
 Camera-ready papers: March 15th, 2022 AoE
 
