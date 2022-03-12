@@ -52,7 +52,7 @@ Topics of interest to the HIPS workshop include but are not limited to:
 - Efforts in programming models, environments, and experience on emerging computer architectures, such as Cerebras, SambaNova, ARM, etc.
 
 # Registration
-TBD
+Attendance at this workshop is part of the registration for IPDPS 2022. See [here](http://www.ipdps.org/ipdps2022/2022-registration.html) to register.
 
 # Program
 May 30th, 2022
