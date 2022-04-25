@@ -56,8 +56,71 @@ Attendance at this workshop is part of the registration for IPDPS 2022. See [her
 
 # Program
 May 30th, 2022
+10:00 - 17:20 CET
 
-TBD
+## Welcome Remarks
+10:00 - 10:05 CET
+
+## Keynote
+Chair: TBD
+10:05 - 11:00 CET
+
+**Pavan Balaji**
+
+## Break
+11:00 - 11:15 CET
+
+## Session One: Distributed Memory
+Chair: TBD
+
+**Towards Java-based HPC using the MVAPICH2 Library: Early Experiences**
+Kinan Alattar, Aamir Shafi, Hari Subramoni, and Dhabaleswar K. Panda
+
+**mpisee: MPI Profiling for Communication and Communicator Structure**
+Ioannis Vardas, Sascha Hunold, Jordy I. Ajanohoun, and Jesper Larsson Träff
+
+**An On-the-Fly Method to Exchange Vector Clocks in Distributed-Memory Programs**
+Simon Schwitanski, Felix Tomski, Joachim Protze, Christian Terboven, and Matthias S. Müller
+
+## Lunch Break
+12:45 - 13:15 CET
+
+## Invited Talk
+Chair: TBD
+13:15 - 14:00 CET
+
+**Bettina Heim**
+
+## Session Two: Shared Memory
+Chair: TBD
+
+**Automatic Parallelization of Programs via Software Stream Rewriting**
+Tao Tao and David Plaisted
+
+**Decentralized in-order execution of a sequential task-based code for shared-memory architectures**
+Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard
+
+## Break
+15:00 - 15:15 CET
+
+## Session Three: Heterogenous
+Chair: TBD
+15:15 - 17:15 CET
+
+**Evaluating Unified Memory Performance in HIP**
+Zheming Jin and Jeffrey Vetter
+
+**Improving Scalability with GPU-Aware Asynchronous Tasks**
+Jaemin Choi, David F. Richards, and Laxmikant V. Kale
+
+**A Customizable Lightweight STM for Irregular Algorithms on GPU**
+Shayan Manoochehri, Patrick Cristofaro and Dhrubajyoti Goswami
+
+**Concurrent CPU-GPU Task Programming using Modern C++**
+Tsung-Wei Huang
+
+## Closing Remarks
+17:15 - 17:20 CET
 
 # Committees
 
