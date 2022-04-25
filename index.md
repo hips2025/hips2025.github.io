@@ -56,19 +56,19 @@ Attendance at this workshop is part of the registration for IPDPS 2022. See [her
 
 # Program
 May 30th, 2022
-10:00 - 17:20 CET
+10:00 - 17:20 CEST
 
 ## Welcome Remarks
-10:00 - 10:05 CET
+10:00 - 10:05 CEST
 
 ## Keynote
 Chair: TBD
-10:05 - 11:00 CET
+10:05 - 11:00 CEST
 
 **Pavan Balaji**
 
 ## Break
-11:00 - 11:15 CET
+11:00 - 11:15 CEST
 
 ## Session One: Distributed Memory
 Chair: TBD
@@ -83,11 +83,11 @@ Ioannis Vardas, Sascha Hunold, Jordy I. Ajanohoun, and Jesper Larsson Träff
 Simon Schwitanski, Felix Tomski, Joachim Protze, Christian Terboven, and Matthias S. Müller
 
 ## Lunch Break
-12:45 - 13:15 CET
+12:45 - 13:15 CEST
 
 ## Invited Talk
 Chair: TBD
-13:15 - 14:00 CET
+13:15 - 14:00 CEST
 
 **Bettina Heim**
 
@@ -101,11 +101,11 @@ Tao Tao and David Plaisted
 Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard
 
 ## Break
-15:00 - 15:15 CET
+15:00 - 15:15 CEST
 
 ## Session Three: Heterogenous
 Chair: TBD
-15:15 - 17:15 CET
+15:15 - 17:15 CEST
 
 **Evaluating Unified Memory Performance in HIP**
 Zheming Jin and Jeffrey Vetter
@@ -120,7 +120,7 @@ Shayan Manoochehri, Patrick Cristofaro and Dhrubajyoti Goswami
 Tsung-Wei Huang
 
 ## Closing Remarks
-17:15 - 17:20 CET
+17:15 - 17:20 CEST
 
 # Committees
 
