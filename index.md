@@ -55,14 +55,14 @@ Topics of interest to the HIPS workshop include but are not limited to:
 Attendance at this workshop is part of the registration for IPDPS 2022. See [here](http://www.ipdps.org/ipdps2022/2022-registration.html) to register.
 
 # Program
-May 30th, 2022
+May 30th, 2022 \\
 10:00 - 17:20 CEST
 
 ## Welcome Remarks
 10:00 - 10:05 CEST
 
 ## Keynote
-Chair: TBD
+Chair: TBD \\
 10:05 - 11:00 CEST
 
 **Pavan Balaji**
@@ -73,20 +73,20 @@ Chair: TBD
 ## Session One: Distributed Memory
 Chair: TBD
 
-**Towards Java-based HPC using the MVAPICH2 Library: Early Experiences**
+**Towards Java-based HPC using the MVAPICH2 Library: Early Experiences** \\
 Kinan Alattar, Aamir Shafi, Hari Subramoni, and Dhabaleswar K. Panda
 
-**mpisee: MPI Profiling for Communication and Communicator Structure**
+**mpisee: MPI Profiling for Communication and Communicator Structure** \\
 Ioannis Vardas, Sascha Hunold, Jordy I. Ajanohoun, and Jesper Larsson Träff
 
-**An On-the-Fly Method to Exchange Vector Clocks in Distributed-Memory Programs**
+**An On-the-Fly Method to Exchange Vector Clocks in Distributed-Memory Programs** \\
 Simon Schwitanski, Felix Tomski, Joachim Protze, Christian Terboven, and Matthias S. Müller
 
 ## Lunch Break
 12:45 - 13:15 CEST
 
 ## Invited Talk
-Chair: TBD
+Chair: TBD \\
 13:15 - 14:00 CEST
 
 **Bettina Heim**
@@ -94,10 +94,10 @@ Chair: TBD
 ## Session Two: Shared Memory
 Chair: TBD
 
-**Automatic Parallelization of Programs via Software Stream Rewriting**
+**Automatic Parallelization of Programs via Software Stream Rewriting** \\
 Tao Tao and David Plaisted
 
-**Decentralized in-order execution of a sequential task-based code for shared-memory architectures**
+**Decentralized in-order execution of a sequential task-based code for shared-memory architectures** \\
 Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard
 
 ## Break
@@ -107,16 +107,16 @@ Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard
 Chair: TBD
 15:15 - 17:15 CEST
 
-**Evaluating Unified Memory Performance in HIP**
+**Evaluating Unified Memory Performance in HIP** \\
 Zheming Jin and Jeffrey Vetter
 
-**Improving Scalability with GPU-Aware Asynchronous Tasks**
+**Improving Scalability with GPU-Aware Asynchronous Tasks** \\
 Jaemin Choi, David F. Richards, and Laxmikant V. Kale
 
-**A Customizable Lightweight STM for Irregular Algorithms on GPU**
+**A Customizable Lightweight STM for Irregular Algorithms on GPU** \\
 Shayan Manoochehri, Patrick Cristofaro and Dhrubajyoti Goswami
 
-**Concurrent CPU-GPU Task Programming using Modern C++**
+**Concurrent CPU-GPU Task Programming using Modern C++** \\
 Tsung-Wei Huang
 
 ## Closing Remarks
