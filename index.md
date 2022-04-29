@@ -54,6 +54,9 @@ Topics of interest to the HIPS workshop include but are not limited to:
 # Registration
 Attendance at this workshop is part of the registration for IPDPS 2022. See [here](http://www.ipdps.org/ipdps2022/2022-registration.html) to register.
 
+---
+---
+
 # Program
 May 30th, 2022 \\
 10:00 - 17:20 EDT
@@ -121,6 +124,9 @@ Tsung-Wei Huang
 
 ## Closing Remarks
 17:15 - 17:20 EDT
+
+---
+---
 
 # Committees
 
