@@ -74,7 +74,8 @@ Chair: TBD \\
 11:00 - 11:15 EDT
 
 ## Session One: Distributed Memory
-Chair: TBD
+Chair: TBD \\
+11:15 - 12:45 EDT
 
 **Towards Java-based HPC using the MVAPICH2 Library: Early Experiences** \\
 Kinan Alattar, Aamir Shafi, Hari Subramoni, and Dhabaleswar K. Panda
@@ -95,7 +96,8 @@ Chair: TBD \\
 **Bettina Heim**
 
 ## Session Two: Shared Memory
-Chair: TBD
+Chair: TBD \\
+14:00 - 15:00 EDT
 
 **Automatic Parallelization of Programs via Software Stream Rewriting** \\
 Tao Tao and David Plaisted
@@ -107,7 +109,7 @@ Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard
 15:00 - 15:15 EDT
 
 ## Session Three: Heterogenous
-Chair: TBD
+Chair: TBD \\
 15:15 - 17:15 EDT
 
 **Evaluating Unified Memory Performance in HIP** \\
