@@ -74,12 +74,61 @@ Chair: Martin Ruefenacht \\
 **Deep Learning Recommendation Systems at Scale: A Peek into the Meta's Supercomputing Needs**
 **Pavan Balaji**
 
+Abstract: \\
+Like many other hyperscalar companies, Meta heavily relies on deep
+learning in its internal systems for numerous things including
+recommending content to the user; understanding text, speech, and
+visual content to recognize things such as hate speech; and
+personalizing advertisements based on user preferences.  Training and
+serving such deep learning models places tremendous requirements on
+how we design and use our supercomputing systems.  In this
+presentation, I'll talk about a subset of Meta's internal deep learning
+system requirements, primarily those targeting our recommendation
+models.  I'll talk about our computational, memory, network, and
+storage requirements.  I'll discuss how performance and
+performance/watt have become a crucial metric of competitiveness for
+Meta, and the kind of optimizations we do to meet these demands.
+Finally, I'll discuss how some of the standard programming models,
+such as MPI and OpenMP, are falling short in meeting our demands
+leading us to develop our own in many cases.
+
+Biography: \\
+Dr. Pavan Balaji holds an appointment as an Applied Research
+Scientist, Technical Lead, and Manager, at Meta AI where he leads the
+HPC Network Communications and Early Industry Partnerships Group.
+Before joining Meta, he was a Senior Computer Scientist and Group Lead
+at the Argonne National Laboratory, where he lead two groups:
+Programming Models and Runtime Systems and Future Architectures for
+AI.  His research interests include HPC hardware/software codesign for
+AI workloads, communication runtime systems, networks, and scale-out
+techniques, parallel programming models and runtime systems for
+communication and I/O on extreme-scale supercomputing systems, modern
+system architecture, cloud computing systems, and data-intensive
+computing.  He has more than 200 publications in these areas and has
+delivered more than 200 talks and tutorials at various conferences and
+research institutes.  He is a recipient of several awards including
+the IEEE TCSC Award for Excellence in Scalable Computing (Middle
+Career) in 2015; TEDxMidwest Emerging Leader award in 2013;
+U.S. Department of Energy Early Career award in 2012; Crain's Chicago
+40 under 40 award in 2012; Los Alamos National Laboratory Director's
+Technical Achievement award in 2005; Ohio State University Outstanding
+Researcher award in 2005; best paper awards at PACT 2019, ACM HPDC
+2018, IEEE ScalCom 2013, Euro PVM/MPI 2009, ISC 2009, IEEE Cluster
+2008, Euro PVM/MPI 2008, ISC 2008; best paper finalist at IEEE/ACM SC
+2014; best poster award at IEEE ICPADS 2018; best poster finalist at
+IEEE/ACM SC 2014; and best student poster award at ICPP 2018.  He has
+served as a chair or editor for nearly 100 journals, conferences and
+workshops, and as a technical program committee member in numerous
+conferences and workshops.  He is a senior member of the IEEE and a
+distinguished member of the ACM.  More details about Dr. Balaji are
+available at https://pavanbalaji.github.io.
+
 ## Break
 11:00 - 11:15 EDT \\
 17:00 - 17:15 CEST
 
 ## Session One: Distributed Memory
-Chair: TBD \\
+Chair: Martin Ruefenacht \\
 11:15 - 12:45 EDT \\
 17:15 - 18:45 CEST
 
