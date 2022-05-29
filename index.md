@@ -59,23 +59,29 @@ Attendance at this workshop is part of the registration for IPDPS 2022. See [her
 
 # Program
 May 30th, 2022 \\
-10:00 - 17:20 EDT
+10:00 - 17:20 EDT \\
+16:00 - 23:20 CEST
 
 ## Welcome Remarks
-10:00 - 10:05 EDT
+10:00 - 10:05 EDT \\
+16:00 - 16:05 CEST
 
 ## Keynote
-Chair: TBD \\
-10:05 - 11:00 EDT
+Chair: Martin Ruefenacht \\
+10:05 - 11:00 EDT \\
+16:05 - 17:00 CEST
 
+**Deep Learning Recommendation Systems at Scale: A Peek into the Meta's Supercomputing Needs**
 **Pavan Balaji**
 
 ## Break
-11:00 - 11:15 EDT
+11:00 - 11:15 EDT \\
+17:00 - 17:15 CEST
 
 ## Session One: Distributed Memory
 Chair: TBD \\
-11:15 - 12:45 EDT
+11:15 - 12:45 EDT \\
+17:15 - 18:45 CEST
 
 **Towards Java-based HPC using the MVAPICH2 Library: Early Experiences** \\
 Kinan Alattar, Aamir Shafi, Hari Subramoni, and Dhabaleswar K. Panda
@@ -87,17 +93,20 @@ Ioannis Vardas, Sascha Hunold, Jordy I. Ajanohoun, and Jesper Larsson Träff
 Simon Schwitanski, Felix Tomski, Joachim Protze, Christian Terboven, and Matthias S. Müller
 
 ## Lunch Break
-12:45 - 13:15 EDT
+12:45 - 13:15 EDT \\
+18:45 - 19:15 CEST
 
 ## Invited Talk
-Chair: TBD \\
-13:15 - 14:00 EDT
+Chair: Martin Ruefenacht \\
+13:15 - 14:00 EDT \\
+19:15 - 20:00 CEST
 
 **Bettina Heim**
 
 ## Session Two: Shared Memory
-Chair: TBD \\
-14:00 - 15:00 EDT
+Chair: Martin Ruefenacht \\
+14:00 - 15:00 EDT \\
+20:00 - 21:00 CEST
 
 **Automatic Parallelization of Programs via Software Stream Rewriting** \\
 Tao Tao and David Plaisted
@@ -106,11 +115,13 @@ Tao Tao and David Plaisted
 Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard
 
 ## Break
-15:00 - 15:15 EDT
+15:00 - 15:15 EDT \\
+21:00 - 21:15 CEST
 
 ## Session Three: Heterogenous
-Chair: TBD \\
-15:15 - 17:15 EDT
+Chair: Amir Raoofy \\
+15:15 - 17:15 EDT \\
+21:15 - 23:15 CEST
 
 **Evaluating Unified Memory Performance in HIP** \\
 Zheming Jin and Jeffrey Vetter
@@ -125,7 +136,8 @@ Shayan Manoochehri, Patrick Cristofaro and Dhrubajyoti Goswami
 Tsung-Wei Huang
 
 ## Closing Remarks
-17:15 - 17:20 EDT
+17:15 - 17:20 EDT \\
+23:15 - 23:20 CEST
 
 ---
 ---
