@@ -71,7 +71,7 @@ Chair: Martin Ruefenacht \\
 10:05 - 11:00 EDT \\
 16:05 - 17:00 CEST
 
-**Deep Learning Recommendation Systems at Scale: A Peek into the Meta's Supercomputing Needs**
+**Deep Learning Recommendation Systems at Scale: A Peek into the Meta's Supercomputing Needs** \\
 **Pavan Balaji**
 
 Abstract: \\
