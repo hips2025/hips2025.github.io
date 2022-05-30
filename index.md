@@ -150,6 +150,7 @@ Chair: Martin Ruefenacht \\
 13:15 - 14:00 EDT \\
 19:15 - 20:00 CEST
 
+**Heterogeneous quantum computing - developing the generation of quantum processors** \\
 **Bettina Heim**
 
 ## Session Two: Shared Memory
