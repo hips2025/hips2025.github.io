@@ -133,7 +133,7 @@ Chair: Martin Ruefenacht \\
 17:15 - 18:45 CEST
 
 **Towards Java-based HPC using the MVAPICH2 Library: Early Experiences** \\
-Kinan Alattar, Aamir Shafi, Hari Subramoni, and Dhabaleswar K. Panda
+Kinan Al-Attar, Aamir Shafi, Hari Subramoni, and Dhabaleswar K. Panda
 
 **mpisee: MPI Profiling for Communication and Communicator Structure** \\
 Ioannis Vardas, Sascha Hunold, Jordy I. Ajanohoun, and Jesper Larsson Träff
