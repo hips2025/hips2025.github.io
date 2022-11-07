@@ -17,7 +17,7 @@ Submission due date: January 19th, 2023 Anywhere on Earth (AoE)
 
 Author notification: February 16th, 2023 AoE
 
-Camera-ready papers: February 23st, 2023 AoE
+Camera-ready papers: March 2nd, 2023 AoE
 
 # Submission
 The HIPS paper style is identical to the IPDPS paper style.
@@ -32,7 +32,7 @@ figures, tables, and references.
 
 [IPDPS 2023 Call for Papers](http://www.ipdps.org/ipdps2023/2023-call-for-papers.html)
 
-[Submission Website](TBA)
+[Submission Website](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2023)
 
 # Topics of Interest
 Topics of interest to the HIPS workshop include but are not limited to:
@@ -54,7 +54,7 @@ Topics of interest to the HIPS workshop include but are not limited to:
 - Higher-level programming support for quantum computing/quantum simulation
 
 # Registration
-Attendance at this workshop is part of the registration for IPDPS 2023. See [here](TBA) to register.
+Attendance at this workshop is part of the registration for IPDPS 2023. See [here](http://www.ipdps.org/ipdps2023/2023-registration.html) to register.
 
 ---
 ---
