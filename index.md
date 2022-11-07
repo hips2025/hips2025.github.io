@@ -1,5 +1,7 @@
 ![IPDPS 2023 Logo](/assets/IPDPS2023-300px.jpg)
 
+# 28th International Workshop on High-Level Parallel Programming Models and Supportive Environments
+
 # Overview
 The 28th HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2023
 conference in St. Petersburg, Florida, USA, focuses on high-level programming
@@ -100,23 +102,25 @@ TBA
 - Frank Mueller, North Carolina State University, USA
 - Martin Schulz, Technische Universität München, Germany
 
-## (tentative) Program Committee
-- Georgis Georgoudis, Lawrence Livermore National Laboratory, USA
-- Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
-- Miwako Tsuji, RIKEN Center for Computational Science, Japan
-- Tomohiro Ueno, RIKEN Center for Computational Science, Japan
+## Program Committee
 - Florina M. Ciorba, Universität Basel, Switzerland
-- Jeffrey Young, Georgia Institute of Technology, USA
-- Qijing Jenny Huang, NVIDIA, USA
-- James Lin, Shanghai Jiao Tong University, China
-- William Moses, Massachusetts Institute of Technology, USA
-- Balazs Gerofi, Intel, USA
+- Miwako Tsuji, RIKEN Center for Computational Science, Japan
 - Nikela Papadopoulou, Chalmers University of Technology, Sweden
-- Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
+- Alexander Weinert, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
+- Balazs Gerofi, Intel, USA
+- Christian Terboven, RWTH Aachen University, Germany
+- Georgis Georgoudis, Lawrence Livermore National Laboratory, USA
+- James Lin, Shanghai Jiao Tong University, China
+- Jeffrey Young, Georgia Institute of Technology, USA
+- Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
+- Qijing Jenny Huang, NVIDIA, USA
+- Seyong Lee, Oak Ridge National Laboratory, USA
+- Tomohiro Ueno, RIKEN Center for Computational Science, Japan
+- William Moses, Massachusetts Institute of Technology, USA
+- Tentative:
 - Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
 - Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
-- Christian Terboven, RWTH Aachen University, Germany
-- Seyong Lee, Oak Ridge National Laboratory, USA
+- Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
 
 # History
 
