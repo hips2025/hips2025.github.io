@@ -1,35 +1,38 @@
-![IPDPS 2022 Logo](/assets/ipdpslogo2.jpg)
+![IPDPS 2023 Logo](/assets/IPDPS2023-300px.jpg)
 
 # Overview
-The 27th HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2022
-conference ~~in Lyon, France and~~ as a virtual workshop, focuses on high-level
-programming of multiprocessors, compute clusters, and massively parallel
-machines. Like previous workshops in the series, which was established in 1996,
+The 28th HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2023
+conference in St. Petersburg, Florida, USA, focuses on high-level programming
+of multiprocessors, compute clusters, and massively parallel machines.
+Like previous workshops in the series, which was established in 1996,
 this event will serve as a forum for research in the areas of parallel
 applications, language design, compilers, runtime systems, and programming
 tools. It provides a timely forum for scientists and engineers to present the
 latest ideas and findings in these rapidly changing fields. In our call for
 papers, we especially encouraged innovative approaches in the areas of emerging
-programming models for large-scale parallel systems and many-core
-architectures.
+programming models for large-scale parallel systems and many-core architectures.
 
 # Important Deadlines
-Submission due date: February 11, 2022 (Extended) Anywhere on Earth (AoE)
+Submission due date: January 19th, 2023 Anywhere on Earth (AoE)
 
-Author notification: March 7th, 2022 AoE
+Author notification: February 16th, 2023 AoE
 
-Camera-ready papers: March 21st, 2022 AoE
+Camera-ready papers: February 23st, 2023 AoE
 
 # Submission
 The HIPS paper style is identical to the IPDPS paper style.
 
-**Full papers** may not exceed 10 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. 
+**Full papers** may not exceed 10 single-spaced double-column pages using
+10-point size font on 8.5x11 inch pages (IEEE conference style), including
+figures, tables, and references.
 
-**Short papers** may not exceed 4 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. 
+**Short papers** may not exceed 4 single-spaced double-column pages using
+10-point size font on 8.5x11 inch pages (IEEE conference style), including
+figures, tables, and references.
 
-[IPDPS 2022 Call for Papers](https://www.ipdps.org/ipdps2022/2022-call-for-papers.html)
+[IPDPS 2023 Call for Papers](http://www.ipdps.org/ipdps2023/2023-call-for-papers.html)
 
-[Submission Website](https://easychair.org/conferences/?conf=hips22)
+[Submission Website](TBA)
 
 # Topics of Interest
 Topics of interest to the HIPS workshop include but are not limited to:
@@ -45,149 +48,42 @@ Topics of interest to the HIPS workshop include but are not limited to:
 - Solutions for programming paradigms for GPUs from different hardware vendors
 - Dynamism in applications and system resources
 - Performance portability
-- Efforts for improving the sustainability of scientific software 
+- Efforts for improving the sustainability of scientific software
 - Languages and runtime support for multi-science/coupled codes, including but not limited to ensemble computing and uncertainty quantification
 - New programming languages and constructs for exploiting parallelism and locality
-- Higher-level programming models or languages for quantum computing/quantum simulation
-- Efforts in programming models, environments, and experience on emerging computer architectures, such as Cerebras, SambaNova, ARM, etc.
+- Higher-level programming support for quantum computing/quantum simulation
 
 # Registration
-Attendance at this workshop is part of the registration for IPDPS 2022. See [here](http://www.ipdps.org/ipdps2022/2022-registration.html) to register.
+Attendance at this workshop is part of the registration for IPDPS 2023. See [here](TBA) to register.
 
 ---
 ---
 
 # Program
-May 30th, 2022 \\
-10:00 - 17:20 EDT \\
-16:00 - 23:20 CEST
+May 15th, 2022 \\
+08:55 - 17:20 EDT
 
 ## Welcome Remarks
-10:00 - 10:05 EDT \\
-16:00 - 16:05 CEST
+08:55 - 09:00 EDT
 
 ## Keynote
-Chair: Martin Ruefenacht \\
-10:05 - 11:00 EDT \\
-16:05 - 17:00 CEST
+09:00 - 10:00 EDT \\
+TBA
 
-**Deep Learning Recommendation Systems at Scale: A Peek into the Meta's Supercomputing Needs** \\
-**Pavan Balaji**
+## Session One
+10:15 - 11:45 EDT \\
+TBA
 
-Abstract: \\
-Like many other hyperscalar companies, Meta heavily relies on deep
-learning in its internal systems for numerous things including
-recommending content to the user; understanding text, speech, and
-visual content to recognize things such as hate speech; and
-personalizing advertisements based on user preferences.  Training and
-serving such deep learning models places tremendous requirements on
-how we design and use our supercomputing systems.  In this
-presentation, I'll talk about a subset of Meta's internal deep learning
-system requirements, primarily those targeting our recommendation
-models.  I'll talk about our computational, memory, network, and
-storage requirements.  I'll discuss how performance and
-performance/watt have become a crucial metric of competitiveness for
-Meta, and the kind of optimizations we do to meet these demands.
-Finally, I'll discuss how some of the standard programming models,
-such as MPI and OpenMP, are falling short in meeting our demands
-leading us to develop our own in many cases.
+## Session Two
+13:00 - 14:30 EDT \\
+TBA
 
-Biography: \\
-Dr. Pavan Balaji holds an appointment as an Applied Research
-Scientist, Technical Lead, and Manager, at Meta AI where he leads the
-HPC Network Communications and Early Industry Partnerships Group.
-Before joining Meta, he was a Senior Computer Scientist and Group Lead
-at the Argonne National Laboratory, where he lead two groups:
-Programming Models and Runtime Systems and Future Architectures for
-AI.  His research interests include HPC hardware/software codesign for
-AI workloads, communication runtime systems, networks, and scale-out
-techniques, parallel programming models and runtime systems for
-communication and I/O on extreme-scale supercomputing systems, modern
-system architecture, cloud computing systems, and data-intensive
-computing.  He has more than 200 publications in these areas and has
-delivered more than 200 talks and tutorials at various conferences and
-research institutes.  He is a recipient of several awards including
-the IEEE TCSC Award for Excellence in Scalable Computing (Middle
-Career) in 2015; TEDxMidwest Emerging Leader award in 2013;
-U.S. Department of Energy Early Career award in 2012; Crain's Chicago
-40 under 40 award in 2012; Los Alamos National Laboratory Director's
-Technical Achievement award in 2005; Ohio State University Outstanding
-Researcher award in 2005; best paper awards at PACT 2019, ACM HPDC
-2018, IEEE ScalCom 2013, Euro PVM/MPI 2009, ISC 2009, IEEE Cluster
-2008, Euro PVM/MPI 2008, ISC 2008; best paper finalist at IEEE/ACM SC
-2014; best poster award at IEEE ICPADS 2018; best poster finalist at
-IEEE/ACM SC 2014; and best student poster award at ICPP 2018.  He has
-served as a chair or editor for nearly 100 journals, conferences and
-workshops, and as a technical program committee member in numerous
-conferences and workshops.  He is a senior member of the IEEE and a
-distinguished member of the ACM.  More details about Dr. Balaji are
-available at https://pavanbalaji.github.io.
-
-## Break
-11:00 - 11:15 EDT \\
-17:00 - 17:15 CEST
-
-## Session One: Distributed Memory
-Chair: Martin Ruefenacht \\
-11:15 - 12:45 EDT \\
-17:15 - 18:45 CEST
-
-**Towards Java-based HPC using the MVAPICH2 Library: Early Experiences** \\
-Kinan Al-Attar, Aamir Shafi, Hari Subramoni, and Dhabaleswar K. Panda
-
-**mpisee: MPI Profiling for Communication and Communicator Structure** \\
-Ioannis Vardas, Sascha Hunold, Jordy I. Ajanohoun, and Jesper Larsson Träff
-
-**An On-the-Fly Method to Exchange Vector Clocks in Distributed-Memory Programs** \\
-Simon Schwitanski, Felix Tomski, Joachim Protze, Christian Terboven, and Matthias S. Müller
-
-## Lunch Break
-12:45 - 13:15 EDT \\
-18:45 - 19:15 CEST
-
-## Invited Talk
-Chair: Martin Ruefenacht \\
-13:15 - 14:00 EDT \\
-19:15 - 20:00 CEST
-
-**Heterogeneous quantum computing - developing the generation of quantum processors** \\
-**Bettina Heim**
-
-## Session Two: Shared Memory
-Chair: Martin Ruefenacht \\
-14:00 - 15:00 EDT \\
-20:00 - 21:00 CEST
-
-**Automatic Parallelization of Programs via Software Stream Rewriting** \\
-Tao Tao and David Plaisted
-
-**Decentralized in-order execution of a sequential task-based code for shared-memory architectures** \\
-Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard
-
-## Break
-15:00 - 15:15 EDT \\
-21:00 - 21:15 CEST
-
-## Session Three: Heterogenous
-Chair: Amir Raoofy \\
-15:15 - 17:15 EDT \\
-21:15 - 23:15 CEST
-
-**Evaluating Unified Memory Performance in HIP** \\
-Zheming Jin and Jeffrey Vetter
-
-**Improving Scalability with GPU-Aware Asynchronous Tasks** \\
-Jaemin Choi, David F. Richards, and Laxmikant V. Kale
-
-**A Customizable Lightweight STM for Irregular Algorithms on GPU** \\
-Shayan Manoochehri, Patrick Cristofaro and Dhrubajyoti Goswami
-
-**Concurrent CPU-GPU Task Programming using Modern C++** \\
-Tsung-Wei Huang
+## Session Three
+14:45 - 17:15 EDT \\
+TBA
 
 ## Closing Remarks
-17:15 - 17:20 EDT \\
-23:15 - 23:20 CEST
+17:15 - 17:20 EDT
 
 ---
 ---
@@ -195,38 +91,39 @@ Tsung-Wei Huang
 # Committees
 
 ## Workshop Co-chairs
-- Jiajia Li, College of William and Mary, jli49 at wm.edu
-- Martin Ruefenacht, Leibniz Supercomputing Centre, martin.ruefenacht at lrz.de
+- Harshitha Menon (Lawrence Livermore National Laboratory, USA), gopalakrishn1 at llnl.gov
+- Jens Domke (RIKEN Center for Computational Science, Japan), jens.domke at riken.jp
 
 ## Steering Committee
 - Rudolf Eigenmann, University of Delaware, USA
 - Michael Gerndt, Technische Universität München, Germany
 - Frank Mueller, North Carolina State University, USA
-- Craig Rasmussen, University of Oregon, USA
 - Martin Schulz, Technische Universität München, Germany
 
-## Program Committee
-- Mehmet Esat Belviranli, Colorado School of Mines, USA
-- Guoyang Chen, Qualcomm Inc., USA
-- Huimin Cui, Institute of Computing Technology, Chinese Academy of Sciences, China
-- Anthony Danalis, University of Tennessee, USA
-- Bettina Heim, Microsoft, USA
-- Jianyu Huang, Facebook, USA
-- Pengcheng Li, Google, USA
-- Seyong Lee, Oak Ridge National Laboratory, USA
-- Ang Li, Pacific Northwest National Lab, USA
-- Reed M. Milewicz, Sandia National Laboratories, USA
-- Kenneth J. Roche, Pacific Northwest National Lab, USA
-- Piyush Sao, ORNL, USA
-- Sameer Shende, University of Oregon, USA
-- Zheng Wang, University of Leeds, United Kingdom
+## (tentative) Program Committee
+- Georgis Georgoudis, Lawrence Livermore National Laboratory, USA
+- Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
+- Miwako Tsuji, RIKEN Center for Computational Science, Japan
+- Tomohiro Ueno, RIKEN Center for Computational Science, Japan
+- Florina M. Ciorba, Universität Basel, Switzerland
 - Jeffrey Young, Georgia Institute of Technology, USA
+- Qijing Jenny Huang, NVIDIA, USA
+- James Lin, Shanghai Jiao Tong University, China
+- William Moses, Massachusetts Institute of Technology, USA
+- Balazs Gerofi, Intel, USA
+- Nikela Papadopoulou, Chalmers University of Technology, Sweden
+- Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
+- Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
+- Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
+- Christian Terboven, RWTH Aachen University, Germany
+- Seyong Lee, Oak Ridge National Laboratory, USA
 
 # History
 
 | Workshop                                                                       | Date            | Location                            |
 |--------------------------------------------------------------------------------|-----------------|-------------------------------------|
-| [26th HIPS 2021](https://www.cs.wm.edu/~bren/HIPS_2021.htm)                    | May 17th 2021   | Virtual                             | 
+| [27th HIPS 2021](https://hips2022.github.io/)                                  | May 30th 2022   | Virtual                             |
+| [26th HIPS 2021](https://www.cs.wm.edu/~bren/HIPS_2021.htm)                    | May 17th 2021   | Virtual                             |
 | [25th HIPS 2020](https://faculty.ucmerced.edu/dong-li/HIPS_2020.htm)           | May 18th 2020   | New Orleans, Louisiana, USA         |
 | [24th HIPS 2019](https://hosting.cs.vt.edu/hips2019/)                          | May 20th 2019   | Rio de Janeiro, Brazil              |
 | [23rd HIPS 2018](http://hips2018.mnm-team.org/)                                | May 21st 2018   | Vancouver, British Columbia, Canada |
