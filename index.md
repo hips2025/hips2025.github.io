@@ -106,6 +106,7 @@ TBA
 - Florina M. Ciorba, Universität Basel, Switzerland
 - Miwako Tsuji, RIKEN Center for Computational Science, Japan
 - Nikela Papadopoulou, Chalmers University of Technology, Sweden
+- Qijing Jenny Huang, NVIDIA, USA
 - Alexander Weinert, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
 - Balazs Gerofi, Intel, USA
 - Christian Terboven, RWTH Aachen University, Germany
@@ -113,12 +114,10 @@ TBA
 - James Lin, Shanghai Jiao Tong University, China
 - Jeffrey Young, Georgia Institute of Technology, USA
 - Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
-- Qijing Jenny Huang, NVIDIA, USA
 - Seyong Lee, Oak Ridge National Laboratory, USA
 - Tomohiro Ueno, RIKEN Center for Computational Science, Japan
 - William Moses, Massachusetts Institute of Technology, USA
-- Tentative:
-- Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
+Tentative:
 - Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
 - Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
 
