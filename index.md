@@ -117,7 +117,7 @@ TBA
 - Seyong Lee, Oak Ridge National Laboratory, USA
 - Tomohiro Ueno, RIKEN Center for Computational Science, Japan
 - William Moses, Massachusetts Institute of Technology, USA
-Tentative:
+- Tentative:
 - Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
 - Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
 
