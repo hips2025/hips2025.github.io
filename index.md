@@ -15,7 +15,7 @@ papers, we especially encouraged innovative approaches in the areas of emerging
 programming models for large-scale parallel systems and many-core architectures.
 
 # Important Deadlines
-Submission due date: January 19th, 2023 Anywhere on Earth (AoE)
+Submission due date: ~~January 19th~~ January 26th, 2023 Anywhere on Earth (AoE)
 
 Author notification: February 14th, 2023 AoE
 
