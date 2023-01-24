@@ -1,0 +1,72 @@
+**SUBJECT**
+FINAL CFP for HIPS 2023; New Deadline Feb.03. (FULL and SHORT)
+
+
+=================================================================
+      HIPS 2020 CALL FOR WORKSHOP PAPERS: FULL and SHORT
+=================================================================
+
+The 28th HIPS workshop (https://hips2023.github.io/) will be held
+in St. Petersburg, Florida, USA as a full-day workshop at the
+IEEE IPDPS 2023 conference (May 15-19, 2023). The goal of the HIPS
+workshop series is to provide attendees with a focused and in-depth
+platform for presentations, discussion and interaction in a
+particular subject area.
+
+We are inviting workshop papers---FULL and SHORT---on topics related
+to all aspects of research, development, and application of
+high-performance systems with a focus on high-level programming of
+multiprocessors, compute clusters, and massively parallel machines.
+The full list of "Topics of Interest" is provided on our website,
+and submissions within the scope of this workshop series are highly
+encouraged (including unlisted, but adjunct, topic areas).
+
+
+IMPORTANT DAYS and DEADLINES
+
+* Submission due date: February 3rd, 2023 Anywhere on Earth (AoE)
+* Author notification: February 21th, 2023 AoE
+* Camera-ready papers: March 7st, 2023 AoE
+* Workshop day:        May 15th, 2023
+
+
+SUBMISSIONS and REVIEW PROCESS
+
+* Full papers: Up to 10 pages incl. figures, tables, and references
+* Short papers: Up to 4 pages incl. figures, etc.
+* HIPS paper style is identical to the IPDPS paper style
+* Each (single-blind) paper will be peer-reviewed by three reviewers
+* Submission website: https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2023
+
+
+COMMITTEES
+
+Workshop Co-chairs
+* Harshitha Menon (Lawrence Livermore National Laboratory, USA)
+* Jens Domke (RIKEN Center for Computational Science, Japan)
+
+Program Committee
+* Florina M. Ciorba, Universität Basel, Switzerland
+* Miwako Tsuji, RIKEN Center for Computational Science, Japan
+* Nikela Papadopoulou, Chalmers University of Technology, Sweden
+* Qijing Jenny Huang, NVIDIA, USA
+* Alexander Weinert, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
+* Balazs Gerofi, Intel, USA
+* Christian Terboven, RWTH Aachen University, Germany
+* Georgis Georgoudis, Lawrence Livermore National Laboratory, USA
+* James Lin, Shanghai Jiao Tong University, China
+* Jeffrey Young, Georgia Institute of Technology, USA
+* Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
+* Seyong Lee, Oak Ridge National Laboratory, USA
+* Tomohiro Ueno, RIKEN Center for Computational Science, Japan
+* William Moses, Massachusetts Institute of Technology, USA
+* Melih Elibol, NVIDIA, USA
+(Tentative:)
+* Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
+* Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
+
+Steering Committee
+* Rudolf Eigenmann, University of Delaware, USA
+* Michael Gerndt, Technische Universität München, Germany
+* Frank Mueller, North Carolina State University, USA
+* Martin Schulz, Technische Universität München, Germany
