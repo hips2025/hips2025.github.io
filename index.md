@@ -118,9 +118,6 @@ TBA
 - Tomohiro Ueno, RIKEN Center for Computational Science, Japan
 - William Moses, Massachusetts Institute of Technology, USA
 - Melih Elibol, NVIDIA, USA
-- Tentative:
-- Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
-- Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
 
 # History
 
