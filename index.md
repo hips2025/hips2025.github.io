@@ -110,7 +110,7 @@ TBA
 - Alexander Weinert, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
 - Balazs Gerofi, Intel, USA
 - Christian Terboven, RWTH Aachen University, Germany
-- Georgis Georgoudis, Lawrence Livermore National Laboratory, USA
+- Giorgis Georgakoudis, Lawrence Livermore National Laboratory, USA
 - James Lin, Shanghai Jiao Tong University, China
 - Jeffrey Young, Georgia Institute of Technology, USA
 - Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
