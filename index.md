@@ -45,8 +45,17 @@ Zheming Jin, Jeffrey Vetter
 **Evaluating performance and portability of high-level programming models: Julia, Python/Numba, and Kokkos on exascale nodes** \\
 William Godoy, Pedro Valero-Lara, Elise Dettling, Christian Trefftz, Ian Jorquera, Thomas Sheehy, Ross Miller, Marc Gonzalez-Tallada, Jeffrey Vetter, Valentin Churavy
 
-## Keynote 2
+## Session Two: Memory Subsystem
 13:00 - 14:00 EDT
+
+**Evaluating Functional Memory-Managed Parallel Languages for HPC using the NAS Parallel Benchmarks** \\
+Michael Wilkins, Garrett Weil, Luke Arnold, Nikos Hardavellas, Peter Dinda
+
+**Memory Traffic and Complete Application Profiling with PAPI Multi-Component Measurements** \\
+Daniel Barry, Heike Jagode, Anthony Danalis, Jack Dongarra
+
+## Keynote 2
+14:00 - 15:00 EDT
 
 **Title: TBA** \\
 **Prof. Ponnuswamy Sadayappan**
@@ -56,15 +65,6 @@ TBA
 
 Biography: \\
 TBA
-
-## Session Two: Memory Subsystem
-14:00 - 15:00 EDT
-
-**Evaluating Functional Memory-Managed Parallel Languages for HPC using the NAS Parallel Benchmarks** \\
-Michael Wilkins, Garrett Weil, Luke Arnold, Nikos Hardavellas, Peter Dinda
-
-**Memory Traffic and Complete Application Profiling with PAPI Multi-Component Measurements** \\
-Daniel Barry, Heike Jagode, Anthony Danalis, Jack Dongarra
 
 ## Session Three: Tuning and Analysis
 15:30 - 17:00 EDT
