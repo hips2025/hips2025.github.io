@@ -19,15 +19,15 @@ programming models for large-scale parallel systems and many-core architectures.
 
 # Program
 May 15th, 2023 \\
-08:55 - 17:20 EDT
+08:55 - 17:05 EDT
 
 ## Welcome Remarks
 08:55 - 09:00 EDT
 
 ## Keynote 1
-09:00 - 10:00 EDT \\
+09:00 - 10:00 EDT
 
-**TBA** \\
+**Title: TBA** \\
 **Prof. Xipeng Shen**
 
 Abstract: \\
@@ -37,7 +37,7 @@ Biography: \\
 TBA
 
 ## Session One: Performance Portability
-10:30 - 11:30 EDT \\
+10:30 - 11:30 EDT
 
 **Understanding Performance Portability of SYCL Kernels: A Case Study with the All-Pairs Distance Calculation in Bioinformatics on GPUs** \\
 Zheming Jin, Jeffrey Vetter
@@ -46,9 +46,9 @@ Zheming Jin, Jeffrey Vetter
 William Godoy, Pedro Valero-Lara, Elise Dettling, Christian Trefftz, Ian Jorquera, Thomas Sheehy, Ross Miller, Marc Gonzalez-Tallada, Jeffrey Vetter, Valentin Churavy
 
 ## Keynote 2
-13:00 - 14:00 EDT \\
+13:00 - 14:00 EDT
 
-**TBA** \\
+**Title: TBA** \\
 **Prof. Ponnuswamy Sadayappan**
 
 Abstract: \\
@@ -58,7 +58,7 @@ Biography: \\
 TBA
 
 ## Session Two: Memory Subsystem
-14:00 - 15:00 EDT \\
+14:00 - 15:00 EDT
 
 **Evaluating Functional Memory-Managed Parallel Languages for HPC using the NAS Parallel Benchmarks** \\
 Michael Wilkins, Garrett Weil, Luke Arnold, Nikos Hardavellas, Peter Dinda
@@ -67,7 +67,7 @@ Michael Wilkins, Garrett Weil, Luke Arnold, Nikos Hardavellas, Peter Dinda
 Daniel Barry, Heike Jagode, Anthony Danalis, Jack Dongarra
 
 ## Session Three: Tuning and Analysis
-15:30 - 17:00 EDT \\
+15:30 - 17:00 EDT
 
 **Runtime-Adaptable Selective Performance Instrumentation** \\
 Sebastian Kreutzer, Christian Iwainsky, Marta Garcia-Gasulla, Victor Lopez, Christian Bischof
