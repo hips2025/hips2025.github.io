@@ -14,50 +14,6 @@ latest ideas and findings in these rapidly changing fields. In our call for
 papers, we especially encouraged innovative approaches in the areas of emerging
 programming models for large-scale parallel systems and many-core architectures.
 
-# Important Deadlines
-Submission due date: ~~January 19th~~ February 3rd, 2023 Anywhere on Earth (AoE)
-
-Author notification: February 21th, 2023 AoE
-
-Camera-ready papers: March 7th, 2023 AoE
-
-# Submission
-The HIPS paper style is identical to the IPDPS paper style.
-
-**Full papers** may not exceed 10 single-spaced double-column pages using
-10-point size font on 8.5x11 inch pages (IEEE conference style), including
-figures, tables, and references.
-
-**Short papers** may not exceed 4 single-spaced double-column pages using
-10-point size font on 8.5x11 inch pages (IEEE conference style), including
-figures, tables, and references.
-
-[IPDPS 2023 Call for Papers](http://www.ipdps.org/ipdps2023/2023-call-for-papers.html)
-
-[Submission Website](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2023)
-
-# Topics of Interest
-Topics of interest to the HIPS workshop include but are not limited to:
-- High-level and domain-specific programming systems
-- Languages and compilers for post-Moore's-Law (or Post Von Neumann)
-- Language/compiler support for AI/ML and Cybersecurity/Privacy (e.g., ML-based auto-tuning)
-- Task-based programming systems
-- (Scalable) programming tools and tools for power & performance analysis, modeling, monitoring, and debugging and core correctness
-- Compiler analysis and optimization techniques
-- OS and architectural support for parallel programming and debugging
-- Software and system support for extreme scalability including fault tolerance and power-aware HPC
-- Programming environments for heterogeneous multicore systems and accelerators such as GPUs and FPGAs
-- Solutions for programming paradigms for GPUs from different hardware vendors
-- Dynamism in applications and system resources
-- Performance portability
-- Efforts for improving the sustainability of scientific software
-- Languages and runtime support for multi-science/coupled codes, including but not limited to ensemble computing and uncertainty quantification
-- New programming languages and constructs for exploiting parallelism and locality
-- Higher-level programming support for quantum computing/quantum simulation
-
-# Registration
-Attendance at this workshop is part of the registration for IPDPS 2023. See [here](http://www.ipdps.org/ipdps2023/2023-registration.html) to register.
-
 ---
 ---
 
@@ -68,24 +24,62 @@ May 15th, 2023 \\
 ## Welcome Remarks
 08:55 - 09:00 EDT
 
-## Keynote
+## Keynote 1
 09:00 - 10:00 EDT \\
+
+**TBA** \\
+**Prof. Xipeng Shen**
+
+Abstract: \\
 TBA
 
-## Session One
-10:15 - 11:45 EDT \\
+Biography: \\
 TBA
 
-## Session Two
-13:00 - 14:30 EDT \\
+## Session One: Performance Portability
+10:30 - 11:30 EDT \\
+
+**Understanding Performance Portability of SYCL Kernels: A Case Study with the All-Pairs Distance Calculation in Bioinformatics on GPUs** \\
+Zheming Jin, Jeffrey Vetter
+
+**Evaluating performance and portability of high-level programming models: Julia, Python/Numba, and Kokkos on exascale nodes** \\
+William Godoy, Pedro Valero-Lara, Elise Dettling, Christian Trefftz, Ian Jorquera, Thomas Sheehy, Ross Miller, Marc Gonzalez-Tallada, Jeffrey Vetter, Valentin Churavy
+
+## Keynote 2
+13:00 - 14:00 EDT \\
+
+**TBA** \\
+**Prof. Ponnuswamy Sadayappan**
+
+Abstract: \\
 TBA
 
-## Session Three
-14:45 - 17:15 EDT \\
+Biography: \\
 TBA
+
+## Session Two: Memory Subsystem
+14:00 - 15:00 EDT \\
+
+**Evaluating Functional Memory-Managed Parallel Languages for HPC using the NAS Parallel Benchmarks** \\
+Michael Wilkins, Garrett Weil, Luke Arnold, Nikos Hardavellas, Peter Dinda
+
+**Memory Traffic and Complete Application Profiling with PAPI Multi-Component Measurements** \\
+Daniel Barry, Heike Jagode, Anthony Danalis, Jack Dongarra
+
+## Session Three: Tuning and Analysis
+15:30 - 17:00 EDT \\
+
+**Runtime-Adaptable Selective Performance Instrumentation** \\
+Sebastian Kreutzer, Christian Iwainsky, Marta Garcia-Gasulla, Victor Lopez, Christian Bischof
+
+**Designing secure performance metrics for last level cache** \\
+Probir Roy, Birhanu Eshete, Pengfei Su
+
+**OptiCPD: Optimization For The Canonical Polyadic Decomposition Algorithm on GPUs** \\
+Srinivasan Subramaniyan, Xiaorui Wang
 
 ## Closing Remarks
-17:15 - 17:20 EDT
+17:00 - 17:05 EDT
 
 ---
 ---
@@ -118,6 +112,56 @@ TBA
 - Tomohiro Ueno, RIKEN Center for Computational Science, Japan
 - William Moses, Massachusetts Institute of Technology, USA
 - Melih Elibol, NVIDIA, USA
+
+---
+---
+
+# Registration
+Attendance at this workshop is part of the registration for IPDPS 2023. See [here](http://www.ipdps.org/ipdps2023/2023-registration.html) to register.
+
+# Topics of Interest
+Topics of interest to the HIPS workshop include but are not limited to:
+- High-level and domain-specific programming systems
+- Languages and compilers for post-Moore's-Law (or Post Von Neumann)
+- Language/compiler support for AI/ML and Cybersecurity/Privacy (e.g., ML-based auto-tuning)
+- Task-based programming systems
+- (Scalable) programming tools and tools for power & performance analysis, modeling, monitoring, and debugging and core correctness
+- Compiler analysis and optimization techniques
+- OS and architectural support for parallel programming and debugging
+- Software and system support for extreme scalability including fault tolerance and power-aware HPC
+- Programming environments for heterogeneous multicore systems and accelerators such as GPUs and FPGAs
+- Solutions for programming paradigms for GPUs from different hardware vendors
+- Dynamism in applications and system resources
+- Performance portability
+- Efforts for improving the sustainability of scientific software
+- Languages and runtime support for multi-science/coupled codes, including but not limited to ensemble computing and uncertainty quantification
+- New programming languages and constructs for exploiting parallelism and locality
+- Higher-level programming support for quantum computing/quantum simulation
+
+# Important Deadlines
+Submission due date: ~~January 19th~~ February 3rd, 2023 Anywhere on Earth (AoE)
+
+Author notification: February 21th, 2023 AoE
+
+Camera-ready papers: March 7th, 2023 AoE
+
+# Submission
+The HIPS paper style is identical to the IPDPS paper style.
+
+**Full papers** may not exceed 10 single-spaced double-column pages using
+10-point size font on 8.5x11 inch pages (IEEE conference style), including
+figures, tables, and references.
+
+**Short papers** may not exceed 4 single-spaced double-column pages using
+10-point size font on 8.5x11 inch pages (IEEE conference style), including
+figures, tables, and references.
+
+[IPDPS 2023 Call for Papers](http://www.ipdps.org/ipdps2023/2023-call-for-papers.html)
+
+[Submission Website](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2023)
+
+---
+---
 
 # History
 
