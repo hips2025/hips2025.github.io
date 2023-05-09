@@ -27,14 +27,14 @@ May 15th, 2023 \\
 ## Keynote 1
 09:00 - 10:00 EDT
 
-**Title: TBA** \\
+**Title: Three Insights Learned in Optimizing Deep Learning** \\
 **Prof. Xipeng Shen**
 
 Abstract: \\
-TBA
+Computing efficiency is crucial for Deep Learning. This talk summarizes three-fold key insights that Prof. Shen's group has attained in their years of research on high performance machine learning and real-time AI. In particular, Prof. Shen will draw on DNN and GNN optimization examples to explain the top factors to consider in ML compilation, the surprisingly large potential in approximation-based optimization, and how model-code co-optimization goes a long way in unleashing the performance potential of deep learning.
 
 Biography: \\
-TBA
+Xipeng Shen is a Professor in the Computer Science Department at North Carolina State University. His primary research work lies in the field of programming systems and intelligent computing, with an emphasis on inter-disciplinary problems and cross-cutting approaches. His research has influenced the development of modern programming systems in multicore and heterogeneous computing as well as ML systems. He is a recipient of the DOE Early Career Award, NSF CAREER Award, Google Faculty Research Award, IBM CAS Faculty Fellow Award, and the NCSU University Faculty Scholars Award. He is an ACM Distinguished Member, ACM Distinguished Speaker, and a senior member of IEEE.
 
 ## Session One: Performance Portability
 10:30 - 11:30 EDT
