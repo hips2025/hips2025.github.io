@@ -57,14 +57,14 @@ Daniel Barry, Heike Jagode, Anthony Danalis, Jack Dongarra
 ## Keynote 2
 14:00 - 15:00 EDT
 
-**Title: TBA** \\
+**Compiler Optimization for Tensor Computations: Challenges and Opportunities** \\
 **Prof. Ponnuswamy Sadayappan**
 
 Abstract: \\
-TBA
+Compiler technology today is very advanced with respect to lowering programs from high-level languages to low-level instruction sets so as to optimize the number of executed instructions.  However, the fundamental bottleneck in computers today is not the cost of executed arithmetic/logic instructions but the cost of data access and movement, whether it be between processors in a parallel system or through the memory hierarchy at each processor.  Although many compiler optimization techniques such as loop tiling/fusion and data layout transformations have been devised to address this critical bottleneck, the achievable performance from automatic compiler optimization today for key matrix/tensor computations is not comparable to that achieved by manually optimized libraries or auto-tuning frameworks like TVM. This talk will elaborate on some of the key challenges/opportunities for compilers, including design space exploration, effective performance modeling, and algorithm-architecture co-design.
 
 Biography: \\
-TBA
+Sadayappan is a Professor in the School of Computing at the University of Utah, with a joint appointment at Pacific Northwest National Laboratory. His primary research interests center around compiler/runtime optimization for high-performance computing, with an emphasis on matrix/tensor computations. He collaborates closely with computational scientists and data scientists in developing high-performance domain-specific frameworks and applications. Sadayappan is an IEEE Fellow.
 
 ## Session Three: Tuning and Analysis
 15:30 - 17:00 EDT
