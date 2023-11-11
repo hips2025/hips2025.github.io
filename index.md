@@ -1,10 +1,10 @@
-![IPDPS 2023 Logo](/assets/IPDPS2023-300px.jpg)
+![IPDPS 2024 Logo](/assets/IPDPS2023-300px.jpg)
 
-# 28th International Workshop on High-Level Parallel Programming Models and Supportive Environments
+# 29th International Workshop on High-Level Parallel Programming Models and Supportive Environments
 
 # Overview
-The 28th HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2023
-conference in St. Petersburg, Florida, USA, focuses on high-level programming
+The 29th HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2024
+conference in San Francisco, California, USA, focuses on high-level programming
 of multiprocessors, compute clusters, and massively parallel machines.
 Like previous workshops in the series, which was established in 1996,
 this event will serve as a forum for research in the areas of parallel
@@ -156,9 +156,9 @@ figures, tables, and references.
 10-point size font on 8.5x11 inch pages (IEEE conference style), including
 figures, tables, and references.
 
-[IPDPS 2023 Call for Papers](http://www.ipdps.org/ipdps2023/2023-call-for-papers.html)
+[IPDPS 2024 Call for Papers](http://www.ipdps.org/ipdps2024/2024-call-for-papers.html)
 
-[Submission Website](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2023)
+[Submission Website](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2024)
 
 ---
 ---
@@ -167,7 +167,8 @@ figures, tables, and references.
 
 | Workshop                                                                       | Date            | Location                            |
 |--------------------------------------------------------------------------------|-----------------|-------------------------------------|
-| [27th HIPS 2021](https://hips2022.github.io/)                                  | May 30th 2022   | Virtual                             |
+| [28th HIPS 2023](https://hips2023.github.io/)                                  | May 15th 2023   | St. Petersburg, Florida, USA        |
+| [27th HIPS 2022](https://hips2022.github.io/)                                  | May 30th 2022   | Virtual                             |
 | [26th HIPS 2021](https://www.cs.wm.edu/~bren/HIPS_2021.htm)                    | May 17th 2021   | Virtual                             |
 | [25th HIPS 2020](https://faculty.ucmerced.edu/dong-li/HIPS_2020.htm)           | May 18th 2020   | New Orleans, Louisiana, USA         |
 | [24th HIPS 2019](https://hosting.cs.vt.edu/hips2019/)                          | May 20th 2019   | Rio de Janeiro, Brazil              |
