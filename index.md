@@ -13,73 +13,8 @@ tools. It provides a timely forum for scientists and engineers to present the
 latest ideas and findings in these rapidly changing fields. In our call for
 papers, we especially encouraged innovative approaches in the areas of emerging
 programming models for large-scale parallel systems and many-core architectures.
-
----
----
-
-# Program
-May 15th, 2023 \\
-08:55 - 17:05 EDT
-
-## Welcome Remarks
-08:55 - 09:00 EDT
-
-## Keynote 1
-09:00 - 10:00 EDT
-
-**Title: Three Insights Learned in Optimizing Deep Learning** \\
-**Prof. Xipeng Shen**
-
-Abstract: \\
-Computing efficiency is crucial for Deep Learning. This talk summarizes three-fold key insights that Prof. Shen's group has attained in their years of research on high performance machine learning and real-time AI. In particular, Prof. Shen will draw on DNN and GNN optimization examples to explain the top factors to consider in ML compilation, the surprisingly large potential in approximation-based optimization, and how model-code co-optimization goes a long way in unleashing the performance potential of deep learning.
-
-Biography: \\
-Xipeng Shen is a Professor in the Computer Science Department at North Carolina State University. His primary research work lies in the field of programming systems and intelligent computing, with an emphasis on inter-disciplinary problems and cross-cutting approaches. His research has influenced the development of modern programming systems in multicore and heterogeneous computing as well as ML systems. He is a recipient of the DOE Early Career Award, NSF CAREER Award, Google Faculty Research Award, IBM CAS Faculty Fellow Award, and the NCSU University Faculty Scholars Award. He is an ACM Distinguished Member, ACM Distinguished Speaker, and a senior member of IEEE.
-
-## Session One: Performance Portability
-10:30 - 11:30 EDT
-
-**Understanding Performance Portability of SYCL Kernels: A Case Study with the All-Pairs Distance Calculation in Bioinformatics on GPUs** \\
-Zheming Jin, Jeffrey Vetter
-
-**Evaluating performance and portability of high-level programming models: Julia, Python/Numba, and Kokkos on exascale nodes** \\
-William Godoy, Pedro Valero-Lara, Elise Dettling, Christian Trefftz, Ian Jorquera, Thomas Sheehy, Ross Miller, Marc Gonzalez-Tallada, Jeffrey Vetter, Valentin Churavy
-
-## Session Two: Memory Subsystem
-13:00 - 14:00 EDT
-
-**Evaluating Functional Memory-Managed Parallel Languages for HPC using the NAS Parallel Benchmarks** \\
-Michael Wilkins, Garrett Weil, Luke Arnold, Nikos Hardavellas, Peter Dinda
-
-**Memory Traffic and Complete Application Profiling with PAPI Multi-Component Measurements** \\
-Daniel Barry, Heike Jagode, Anthony Danalis, Jack Dongarra
-
-## Keynote 2
-14:00 - 15:00 EDT
-
-**Compiler Optimization for Tensor Computations: Challenges and Opportunities** \\
-**Prof. Ponnuswamy Sadayappan**
-
-Abstract: \\
-Compiler technology today is very advanced with respect to lowering programs from high-level languages to low-level instruction sets so as to optimize the number of executed instructions.  However, the fundamental bottleneck in computers today is not the cost of executed arithmetic/logic instructions but the cost of data access and movement, whether it be between processors in a parallel system or through the memory hierarchy at each processor.  Although many compiler optimization techniques such as loop tiling/fusion and data layout transformations have been devised to address this critical bottleneck, the achievable performance from automatic compiler optimization today for key matrix/tensor computations is not comparable to that achieved by manually optimized libraries or auto-tuning frameworks like TVM. This talk will elaborate on some of the key challenges/opportunities for compilers, including design space exploration, effective performance modeling, and algorithm-architecture co-design.
-
-Biography: \\
-Sadayappan is a Professor in the School of Computing at the University of Utah, with a joint appointment at Pacific Northwest National Laboratory. His primary research interests center around compiler/runtime optimization for high-performance computing, with an emphasis on matrix/tensor computations. He collaborates closely with computational scientists and data scientists in developing high-performance domain-specific frameworks and applications. Sadayappan is an IEEE Fellow.
-
-## Session Three: Tuning and Analysis
-15:30 - 17:00 EDT
-
-**Runtime-Adaptable Selective Performance Instrumentation** \\
-Sebastian Kreutzer, Christian Iwainsky, Marta Garcia-Gasulla, Victor Lopez, Christian Bischof
-
-**Designing secure performance metrics for last level cache** \\
-Probir Roy, Birhanu Eshete, Pengfei Su
-
-**OptiCPD: Optimization For The Canonical Polyadic Decomposition Algorithm on GPUs** \\
-Srinivasan Subramaniyan, Xiaorui Wang
-
-## Closing Remarks
-17:00 - 17:05 EDT
+An additional emphasis this year will be on post-von Neumann architectures and 
+deep memories hierarchies to encourage new developments in programming models for HPC.
 
 ---
 ---
@@ -87,8 +22,8 @@ Srinivasan Subramaniyan, Xiaorui Wang
 # Committees
 
 ## Workshop Co-chairs
-- Harshitha Menon (Lawrence Livermore National Laboratory, USA), gopalakrishn1 at llnl.gov
-- Jens Domke (RIKEN Center for Computational Science, Japan), jens.domke at riken.jp
+- Seyong Lee (Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA), lees2 at ornl.gov
+- Lena Oden (FernUniversität in Hagen, Germany), lena.oden at fernuni-hagen.de
 
 ## Steering Committee
 - Rudolf Eigenmann, University of Delaware, USA
@@ -97,27 +32,28 @@ Srinivasan Subramaniyan, Xiaorui Wang
 - Martin Schulz, Technische Universität München, Germany
 
 ## Program Committee
-- Florina M. Ciorba, Universität Basel, Switzerland
-- Miwako Tsuji, RIKEN Center for Computational Science, Japan
-- Nikela Papadopoulou, Chalmers University of Technology, Sweden
-- Qijing Jenny Huang, NVIDIA, USA
-- Alexander Weinert, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
-- Balazs Gerofi, Intel, USA
-- Christian Terboven, RWTH Aachen University, Germany
 - Giorgis Georgakoudis, Lawrence Livermore National Laboratory, USA
-- James Lin, Shanghai Jiao Tong University, China
-- Jeffrey Young, Georgia Institute of Technology, USA
 - Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
-- Seyong Lee, Oak Ridge National Laboratory, USA
+- Miwako Tsuji, RIKEN Center for Computational Science, Japan
 - Tomohiro Ueno, RIKEN Center for Computational Science, Japan
+- Florina M. Ciorba, Universität Basel, Switzerland
+- Jeffrey Young, Georgia Institute of Technology, USA
+- Qijing Jenny Huang, NVIDIA, USA
+- James Lin, Shanghai Jiao Tong University, China
 - William Moses, Massachusetts Institute of Technology, USA
-- Melih Elibol, NVIDIA, USA
+- Balazs Gerofi, Intel, USA
+- Nikela Papadopoulou, Chalmers University of Technology, Sweden
+- Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
+- Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
+- Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
+- Christian Terboven, RWTH Aachen University, Germany
+- Thorsten Hater, Jülich Supercomputing Center, Germany 
 
 ---
 ---
 
 # Registration
-Attendance at this workshop is part of the registration for IPDPS 2023. See [here](http://www.ipdps.org/ipdps2023/2023-registration.html) to register.
+Attendance at this workshop is part of the registration for IPDPS 2024. See [here](http://www.ipdps.org/ipdps2024/2024-registration.html) to register.
 
 # Topics of Interest
 Topics of interest to the HIPS workshop include but are not limited to:
@@ -139,11 +75,11 @@ Topics of interest to the HIPS workshop include but are not limited to:
 - Higher-level programming support for quantum computing/quantum simulation
 
 # Important Deadlines
-Submission due date: ~~January 19th~~ February 3rd, 2023 Anywhere on Earth (AoE)
+Submission due date: January 19th, 2024 Anywhere on Earth (AoE)
 
-Author notification: February 21th, 2023 AoE
+Author notification: February 16th, 2024 AoE
 
-Camera-ready papers: March 7th, 2023 AoE
+Camera-ready papers: February 29th, 2024 AoE
 
 # Submission
 The HIPS paper style is identical to the IPDPS paper style.
