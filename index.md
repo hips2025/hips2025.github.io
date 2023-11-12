@@ -1,4 +1,4 @@
-![IPDPS 2024 Logo](/assets/IPDPS2023-300px.jpg)
+![IPDPS 2024 Logo](/assets/2024-logo-200px.jpg)
 
 # 29th International Workshop on High-Level Parallel Programming Models and Supportive Environments
 
