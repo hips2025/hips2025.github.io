@@ -16,9 +16,6 @@ programming models for large-scale parallel systems and many-core architectures.
 An additional emphasis this year will be on post-von Neumann architectures and 
 deep memories hierarchies to encourage new developments in programming models for HPC.
 
----
----
-
 # Committees
 
 ## Workshop Co-chairs
@@ -48,12 +45,6 @@ deep memories hierarchies to encourage new developments in programming models fo
 - Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
 - Christian Terboven, RWTH Aachen University, Germany
 - Thorsten Hater, Jülich Supercomputing Center, Germany 
-
----
----
-
-# Registration
-Attendance at this workshop is part of the registration for IPDPS 2024. See [here](http://www.ipdps.org/ipdps2024/2024-registration.html) to register.
 
 # Topics of Interest
 Topics of interest to the HIPS workshop include but are not limited to:
