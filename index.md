@@ -16,36 +16,6 @@ programming models for large-scale parallel systems and many-core architectures.
 An additional emphasis this year will be on post-von Neumann architectures and 
 deep memories hierarchies to encourage new developments in programming models for HPC.
 
-# Committees
-
-## Workshop Co-chairs
-- Seyong Lee (Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA), lees2 at ornl.gov
-- Lena Oden (FernUniversität in Hagen, Germany), lena.oden at fernuni-hagen.de
-
-## Steering Committee
-- Rudolf Eigenmann, University of Delaware, USA
-- Michael Gerndt, Technische Universität München, Germany
-- Frank Mueller, North Carolina State University, USA
-- Martin Schulz, Technische Universität München, Germany
-
-## Program Committee
-- Giorgis Georgakoudis, Lawrence Livermore National Laboratory, USA
-- Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
-- Miwako Tsuji, RIKEN Center for Computational Science, Japan
-- Tomohiro Ueno, RIKEN Center for Computational Science, Japan
-- Florina M. Ciorba, Universität Basel, Switzerland
-- Jeffrey Young, Georgia Institute of Technology, USA
-- Qijing Jenny Huang, NVIDIA, USA
-- James Lin, Shanghai Jiao Tong University, China
-- William Moses, Massachusetts Institute of Technology, USA
-- Balazs Gerofi, Intel, USA
-- Nikela Papadopoulou, Chalmers University of Technology, Sweden
-- Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
-- Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
-- Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
-- Christian Terboven, RWTH Aachen University, Germany
-- Thorsten Hater, Jülich Supercomputing Center, Germany 
-
 # Topics of Interest
 Topics of interest to the HIPS workshop include but are not limited to:
 - High-level and domain-specific programming systems
@@ -82,6 +52,36 @@ figures, tables, and references.
 **Short papers** may not exceed 4 single-spaced double-column pages using
 10-point size font on 8.5x11 inch pages (IEEE conference style), including
 figures, tables, and references.
+
+# Committees
+
+## Workshop Co-chairs
+- Seyong Lee (Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA), lees2 at ornl.gov
+- Lena Oden (FernUniversität in Hagen, Germany), lena.oden at fernuni-hagen.de
+
+## Steering Committee
+- Rudolf Eigenmann, University of Delaware, USA
+- Michael Gerndt, Technische Universität München, Germany
+- Frank Mueller, North Carolina State University, USA
+- Martin Schulz, Technische Universität München, Germany
+
+## Program Committee
+- Giorgis Georgakoudis, Lawrence Livermore National Laboratory, USA
+- Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
+- Miwako Tsuji, RIKEN Center for Computational Science, Japan
+- Tomohiro Ueno, RIKEN Center for Computational Science, Japan
+- Florina M. Ciorba, Universität Basel, Switzerland
+- Jeffrey Young, Georgia Institute of Technology, USA
+- Qijing Jenny Huang, NVIDIA, USA
+- James Lin, Shanghai Jiao Tong University, China
+- William Moses, Massachusetts Institute of Technology, USA
+- Balazs Gerofi, Intel, USA
+- Nikela Papadopoulou, Chalmers University of Technology, Sweden
+- Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
+- Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
+- Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
+- Christian Terboven, RWTH Aachen University, Germany
+- Thorsten Hater, Jülich Supercomputing Center, Germany 
 
 [IPDPS 2024 Call for Papers](http://www.ipdps.org/ipdps2024/2024-call-for-papers.html)
 
