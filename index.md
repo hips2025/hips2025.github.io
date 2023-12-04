@@ -71,17 +71,18 @@ figures, tables, and references.
 - Miwako Tsuji, RIKEN Center for Computational Science, Japan
 - Tomohiro Ueno, RIKEN Center for Computational Science, Japan
 - Florina M. Ciorba, Universität Basel, Switzerland
-- Jeffrey Young, Georgia Institute of Technology, USA
-- Qijing Jenny Huang, NVIDIA, USA
 - James Lin, Shanghai Jiao Tong University, China
-- William Moses, Massachusetts Institute of Technology, USA
 - Balazs Gerofi, Intel, USA
 - Nikela Papadopoulou, Chalmers University of Technology, Sweden
-- Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
 - Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
-- Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
 - Christian Terboven, RWTH Aachen University, Germany
 - Thorsten Hater, Jülich Supercomputing Center, Germany 
+
+[//]: # (William Moses, Massachusetts Institute of Technology, USA)
+[//]: # (Jeffrey Young, Georgia Institute of Technology, USA)
+[//]: # (Qijing Jenny Huang, NVIDIA, USA)
+[//]: # (Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland)
+[//]: # "Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand"
 
 [IPDPS 2024 Call for Papers](http://www.ipdps.org/ipdps2024/2024-call-for-papers.html)
 
