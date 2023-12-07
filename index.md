@@ -43,15 +43,30 @@ Author notification: February 16th, 2024 AoE
 Camera-ready papers: February 29th, 2024 AoE
 
 # Submission
-The HIPS paper style is identical to the IPDPS paper style.
+Authors are invited to submit original papers in two separate tracks:
 
 **Full papers** may not exceed 10 single-spaced double-column pages using
 10-point size font on 8.5x11 inch pages (IEEE conference style), including
-figures, tables, and references.
+figures, tables, and references. The authors, if accepted, will have the 
+opportunity to present their work during the workshop.
 
 **Short papers** may not exceed 4 single-spaced double-column pages using
 10-point size font on 8.5x11 inch pages (IEEE conference style), including
-figures, tables, and references.
+figures, tables, and references. The authors, if accepted, will have the 
+opportunity to give a short presentation during the workshop.
+
+All submissions should be formatted according to the IPDPS paper style.
+
+Please submit papers through [the IPDPS-HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2024)
+
+[IPDPS 2024 Call for Papers](http://www.ipdps.org/ipdps2024/2024-call-for-papers.html)
+
+# Proceedings 
+
+The accepted full papers will be published in the IPDPS 2024 Workshops proceedings by the IEEE Xplore Digital Library.
+(Short papers will not appear in the proceedings.)
+Presentation of an accepted paper at the conference is a requirement of publication. 
+Any paper that is not presented at the conference will not be included in IEEE Xplore.
 
 # Committees
 
@@ -84,9 +99,6 @@ figures, tables, and references.
 [//]: # (Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland)
 [//]: # "Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand"
 
-[IPDPS 2024 Call for Papers](http://www.ipdps.org/ipdps2024/2024-call-for-papers.html)
-
-[Submission Website](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2024)
 
 ---
 ---
