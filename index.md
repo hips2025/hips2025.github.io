@@ -72,7 +72,7 @@ Any paper that is not presented at the conference will not be included in IEEE X
 
 ## Workshop Co-chairs
 - Seyong Lee (Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA), lees2 at ornl.gov
-- Lena Oden (FernUniversität in Hagen, Germany), lena.oden at fernuni-hagen.de
+- Lena Oden (FernUniversität in Hagen, Germany), l.oden at fz-juelich.de
 
 ## Steering Committee
 - Rudolf Eigenmann, University of Delaware, USA
