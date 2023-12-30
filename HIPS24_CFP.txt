@@ -1,0 +1,71 @@
+HIPS 2024: The 29th International Workshop on High-Level Parallel Programming Models and Supportive Environments
+to be held in conjunction with IPDPS 2024
+
+May 27-31, 2024
+San Francisco, California, USA
+
+[Introduction]
+The 29th HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2024 conference in San Francisco, California, USA, focuses on high-level programming of multiprocessors, compute clusters, and massively parallel machines. Like previous workshops in the series, which was established in 1996, this event will serve as a forum for research in the areas of parallel applications, language design, compilers, runtime systems, and programming tools. It provides a timely forum for scientists and engineers to present the latest ideas and findings in these rapidly changing fields. In our call for papers, we especially encouraged innovative approaches in the areas of emerging programming models for large-scale parallel systems and many-core architectures. An additional emphasis this year will be on post-von Neumann architectures and deep memories hierarchies to encourage new developments in programming models for HPC.
+
+[Topics of the workshop]
+Topics of interest to the HIPS workshop include but are not limited to:
+
+	- High-level and domain-specific programming systems
+	- Languages and compilers for post-Moore’s-Law (or Post Von Neumann)
+	- Language/compiler support for AI/ML and Cybersecurity/Privacy (e.g., ML-based auto-tuning)
+	- Task-based programming systems
+	- (Scalable) programming tools and tools for power & performance analysis, modeling, monitoring, and debugging and core correctness
+	- Compiler analysis and optimization techniques
+	- OS and architectural support for parallel programming and debugging
+	- Software and system support for extreme scalability including fault tolerance and power-aware HPC
+	- Programming environments for heterogeneous multicore systems and accelerators such as GPUs and FPGAs
+	- Solutions for programming paradigms for GPUs from different hardware vendors
+	- Dynamism in applications and system resources
+	- Performance portability
+	- Efforts for improving the sustainability of scientific software
+	- Languages and runtime support for multi-science/coupled codes, including but not limited to ensemble computing and uncertainty quantification
+	- New programming languages and constructs for exploiting parallelism and locality
+	- Higher-level programming support for quantum computing/quantum simulation
+
+[Important Dates]
+-Paper submission deadline: January 19, 2024 Anywhere on Earth (AoE)
+-Notification of acceptance: February 16, 2024 AoE
+-Camera-ready papers due: February 29, 2024 AoE
+-Workshop day: TBD (IPDPS24 will be from May 27 to 31, 2024)
+
+[Steering Committee]
+Rudolf Eigenmann, University of Delaware, USA
+Michael Gerndt, Technische Universität München, Germany
+Frank Mueller, North Carolina State University, USA
+Martin Schulz, Technische Universität München, Germany
+
+[Organizers (Contact us)]
+Seyong Lee, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA (lees2 at ornl.gov)
+Lena Oden, FernUniversität in Hagen, Germany (l.oden at fz-juelich.de)
+
+[Program Committee]
+Giorgis Georgakoudis, Lawrence Livermore National Laboratory, USA
+Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
+Miwako Tsuji, RIKEN Center for Computational Science, Japan
+Tomohiro Ueno, RIKEN Center for Computational Science, Japan
+Florina M. Ciorba, Universität Basel, Switzerland
+James Lin, Shanghai Jiao Tong University, China
+Balazs Gerofi, Intel, USA
+Nikela Papadopoulou, Chalmers University of Technology, Sweden
+Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
+Christian Terboven, RWTH Aachen University, Germany
+Thorsten Hater, Jülich Supercomputing Center, Germany
+
+[Manuscript submission]
+Authors are invited to submit original papers in two separate tracks:
+	- Full papers may not exceed 10 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. The authors, if accepted, will have the opportunity to present their work during the workshop.
+	- Short papers may not exceed 4 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. The authors, if accepted, will have the opportunity to give a short presentation during the workshop.
+All submissions should be formatted according to the IPDPS paper style.
+Please submit papers through the IPDPS-HIPS Linklings site: 
+https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2024
+
+[Proceedings]
+The accepted full papers will be published in the IPDPS 2024 Workshops proceedings by the IEEE Xplore Digital Library.
+(Short papers will not appear in the proceedings.)
+Presentation of an accepted paper at the conference is a requirement of publication. 
+Any paper that is not presented at the conference will not be included in IEEE Xplore.
