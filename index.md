@@ -92,6 +92,8 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
 - Christian Terboven, RWTH Aachen University, Germany
 - Thorsten Hater, Jülich Supercomputing Center, Germany 
+- Martin Kong, Ohio State University, USA
+- Mohammad Alaul Haque Monil, Oak Ridge National Laboratory, USA
 
 [//]: # (William Moses, Massachusetts Institute of Technology, USA)
 [//]: # (Jeffrey Young, Georgia Institute of Technology, USA)
