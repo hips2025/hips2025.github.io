@@ -36,7 +36,7 @@ Topics of interest to the HIPS workshop include but are not limited to:
 - Higher-level programming support for quantum computing/quantum simulation
 
 # Important Deadlines
-Submission due date: January 19th, 2024 Anywhere on Earth (AoE)
+Submission due date (extended): January 26, 2024 Anywhere on Earth (AoE)
 
 Author notification: February 16th, 2024 AoE
 
