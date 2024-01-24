@@ -62,7 +62,7 @@ Mohammad Alaul Haque Monil, Oak Ridge National Laboratory, USA
 Authors are invited to submit original papers in two separate tracks:
 	- Full papers may not exceed 10 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. The authors, if accepted, will have the opportunity to present their work during the workshop.
 	- Short papers may not exceed 4 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. The authors, if accepted, will have the opportunity to give a short presentation during the workshop.
-All submissions should be formatted according to the IPDPS paper style.
+All submissions should be formatted according to the IPDPS paper style (IEEE conference style, double-blind).
 Please submit papers through the IPDPS-HIPS Linklings site: 
 https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2024
 
