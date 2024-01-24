@@ -55,7 +55,7 @@ opportunity to present their work during the workshop.
 figures, tables, and references. The authors, if accepted, will have the 
 opportunity to give a short presentation during the workshop.
 
-All submissions should be formatted according to the IPDPS paper style.
+All submissions should be formatted according to the IPDPS paper style (IEEE conference style, double-blind).
 
 Please submit papers through [the IPDPS-HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2024)
 
