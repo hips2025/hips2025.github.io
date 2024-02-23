@@ -40,7 +40,7 @@ Submission due date (extended): January 26, 2024 Anywhere on Earth (AoE)
 
 Author notification: February 16th, 2024 AoE
 
-Camera-ready papers: February 29th, 2024 AoE
+Camera-ready papers: March 7th, 2024 AoE
 
 # Submission
 Authors are invited to submit original papers in two separate tracks:
