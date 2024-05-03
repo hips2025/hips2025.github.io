@@ -72,7 +72,7 @@ Yectli Huerta
 
 ## Panel
 **Panel Theme: AI for HPC and HPC for AI** \\
-**Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University)**
+**Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University)** \\
 16:30 - 17:30 PDT
 
 ## Closing Remarks
