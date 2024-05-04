@@ -21,7 +21,7 @@ deep memories hierarchies to encourage new developments in programming models fo
 
 # Program
 May 31, 2024 \\
-08:55 - 17:05 PDT
+09:00 - 16:40 PDT
 
 ## Welcome Remarks
 09:00 - 09:05 PDT
@@ -40,8 +40,11 @@ The author would like to thank all colleagues at IBM Research Almaden, Yorktown,
 Biography: \\
 HsinYu (Sidney) Tsai received her Ph.D. from the Electrical Engineering and Computer Science department at Massachusetts Institute of Technology in 2011. After graduation, Sidney joined the IBM T.J. Watson Research Center and developed directed self-assembly (DSA) lithography for finFETs. Sidney managed an Advanced Lithography group in 2016, overseeing operations of a 200mm research prototyping line. She now works in the Almaden Research Center in San Jose, CA, as a Principal Research Staff Member and manager of the Analog AI group, focusing on training and inference of Deep Neural Networks using emerging non-volatile memories, such as Phase Change Memory.
 
+## Coffee Break
+10:00 - 10:30 PDT
+
 ## Paper Session One
-10:30 - 11:30 PDT
+10:30 - 12:00 PDT
 
 **eCC++ : A Compiler Construction Framework for Embedded Domain-Specific Languages** \\
 Marc Gonzalez Tallada, Joel Denny, Pedro Valero Lara, Seyong Lee, Keita Teranishi, and Jeffrey Vetter
@@ -49,11 +52,14 @@ Marc Gonzalez Tallada, Joel Denny, Pedro Valero Lara, Seyong Lee, Keita Teranish
 **Comprehensive Study for Just-In-Time Pack Functions in Open MPI** \\
 Yicheng Li, Joseph Schuchart, and George Bosilca 
 
-## Paper Session Two
-13:30 - 15:00 PDT
-
 **Dynamic Resource Management for Elastic Scientific Workflows using PMIx** \\
 Rajat Bhattarai, Howard Pritchard, and Sheikh Ghafoor 
+
+## Lunch Break
+12:00 - 13:00 PDT
+
+## Paper Session Two
+13:00 - 15:00 PDT
 
 **GrOUT: Transparent Scale-Out to Overcome UVM’s Oversubscription Slowdowns** \\
 Ian Di Dio Lavore, Davide Maffi, Marco Arnaboldi, Arnaud Delamare, Daniele Bonetta, Marco Domenico Santambrogio
@@ -61,22 +67,22 @@ Ian Di Dio Lavore, Davide Maffi, Marco Arnaboldi, Arnaud Delamare, Daniele Bonet
 **Towards Fine-grained Parallelism in Parallel and Distributed Python Libraries** \\
 Jamison Kerney, Johnny Raicu, Kyle Chard, and  Ioan Raicu
 
-## Paper Session Three
-15:30 - 16:30 PDT
-
 **Automated Data Analysis for Defining Performance Metrics from Raw Hardware Events** \\
 Daniel Barry, Anthony Danalis, and Jack Dongarra
 
 **Performance Analysis of the NVIDIA HPC SDK and AMD AOCC Compilers in an HPC Cluster Using Pooled, Robust and Relative Metrics** \\
 Yectli Huerta
 
+## Coffee Break
+15:00 - 15:30 PDT
+
 ## Panel
 **Panel Theme: AI for HPC and HPC for AI** \\
-**Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University)** \\
-16:30 - 17:30 PDT
+**Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University), ... ** \\
+15:30 - 16:30 PDT
 
 ## Closing Remarks
-17:30 - 17:40 PDT
+16:30 - 16:40 PDT
 
 ---
 ---
