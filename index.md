@@ -78,7 +78,7 @@ Yectli Huerta
 
 ## Panel
 **Panel Theme: AI for HPC and HPC for AI** \\
-**Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University), Dong Li (University of California, Merced) ... ** \\
+**Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University), Dong Li (University of California, Merced) Lawrence Rauchwerger (University of Illinois at Urbana-Champaign) ** \\
 15:30 - 16:30 PDT
 
 ## Closing Remarks
