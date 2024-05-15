@@ -78,10 +78,10 @@ Yectli Huerta
 15:00 - 15:30 PDT
 
 ## Panel
+15:30 - 16:30 PDT \\
 **Panel Theme: AI for HPC and HPC for AI** \\
 **Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University), Dong Li (University of California, Merced), and  Lawrence Rauchwerger (University of Illinois at Urbana-Champaign) \\
-Moderator: Seyong Lee (Oak Ridge National Laboratory)** \\
-15:30 - 16:30 PDT
+Moderator: Seyong Lee (Oak Ridge National Laboratory)** 
 
 ## Closing Remarks
 16:30 - 16:40 PDT \\
