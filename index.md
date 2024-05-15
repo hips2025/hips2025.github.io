@@ -24,7 +24,7 @@ May 31, 2024 \\
 09:00 - 16:40 PDT
 
 ## Welcome Remarks
-09:00 - 09:05 PDT
+09:00 - 09:05 PDT \\
 **Seyong Lee (Oak Ridge National Laboratory)**
 
 ## Keynote
@@ -80,11 +80,11 @@ Yectli Huerta
 ## Panel
 **Panel Theme: AI for HPC and HPC for AI** \\
 **Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University), Dong Li (University of California, Merced), and  Lawrence Rauchwerger (University of Illinois at Urbana-Champaign) ** \\
-**MOderator: Seyong Lee (Oak Ridge National Laboratory)**
+**Moderator: Seyong Lee (Oak Ridge National Laboratory)** \\
 15:30 - 16:30 PDT
 
 ## Closing Remarks
-16:30 - 16:40 PDT
+16:30 - 16:40 PDT \\
 **Seyong Lee (Oak Ridge National Laboratory)**
 
 ---
