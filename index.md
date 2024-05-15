@@ -25,12 +25,13 @@ May 31, 2024 \\
 
 ## Welcome Remarks
 09:00 - 09:05 PDT
+**Seyong Lee (Oak Ridge National Laboratory)**
 
 ## Keynote
 09:05 - 10:00 PDT
 
 **Title: Architecture and Programming of Analog In-Memory- Computing Accelerators for Deep Neural Networks** \\
-**Dr. HsinYu (Sidney) Tsai**
+**Dr. HsinYu (Sidney) Tsai (IBM Research)**
 
 Abstract: \\
 Deep Neural Networks (DNNs) have demonstrated revolutionary capabilities in AI, such as machine vision, natural language processing, and content generation. However, the growing energy usage due to the excessive amount of data communication between compute and memory units highlights the need to address the “Von Neumann bottleneck.” In-memory computing can achieve high throughput and energy efficiency by computing multiply-accumulate (MAC) operations using Ohm’s law and Kirchhoff’s current law on arrays of resistive memory devices.
@@ -79,10 +80,12 @@ Yectli Huerta
 ## Panel
 **Panel Theme: AI for HPC and HPC for AI** \\
 **Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University), Dong Li (University of California, Merced), and  Lawrence Rauchwerger (University of Illinois at Urbana-Champaign) ** \\
+**MOderator: Seyong Lee (Oak Ridge National Laboratory)**
 15:30 - 16:30 PDT
 
 ## Closing Remarks
 16:30 - 16:40 PDT
+**Seyong Lee (Oak Ridge National Laboratory)**
 
 ---
 ---
