@@ -1,0 +1,82 @@
+HIPS 2025: The 30th International Workshop on High-Level Parallel Programming Models and Supportive Environments
+to be held in conjunction with IPDPS 2025
+
+May 27-31, 2025
+Milan, Lombardy, Italy
+
+[Introduction]
+The 30th HIPS workshop, to be held as a full-day meeting at the IPDPS 2025 conference in Milan, Lombardy, Italy, focuses on high-level programming of multiprocessors, compute clusters, and massively parallel machines. Like previous workshops in this series - established in 1996 - this event serves as a forum for research in the areas of parallel applications, language design, compilers, runtime systems, and programming tools. It provides a timely forum for scientists and engineers to present the latest ideas and findings in these rapidly changing fields. In our call for papers, we especially invite papers demonstrating innovative approaches in the areas of emerging programming models for large-scale parallel systems and many-core architectures. This year we will add to the list topics programming models and environments for the Edge-Cloud-HPC Continuum as well as the application of recent AI technologies in high-level programming models.
+
+[Topics of the workshop]
+Topics of interest to the HIPS workshop include but are not limited to:
+
+	-  High-level and domain-specific programming systems
+	-  Language/compiler support for AI/ML and Cybersecurity/Privacy (e.g., ML-based auto-tuning)
+	-  Application of Large Language Models in high-level programming environments
+	-  Higher-level programming support for quantum computing/quantum simulation
+	-  Programming Models and Tools for the	Edge-Cloud-HPC Continuum
+	-  Task-based programming systems
+	-  (Scalable) programming tools and tools for power & performance analysis, modeling, monitoring and debugging, and core correctness
+	-  Compiler analysis and optimization techniques
+	-  OS and architectural support for parallel programming and debugging
+	-  Software and system support for extreme scalability including fault tolerance and power-aware HPC
+	-  Programming environments for	heterogeneous multicore systems and	accelerators such as GPUs and FPGAs
+	-  Solutions for programming paradigms for GPUs from different hardware vendors
+	-  Dynamism in applications and system resources
+	-  Performance portability
+	- Efforts for improving the sustainability of scientific software
+	-  Languages and runtime support for multi-science/coupled codes, including but	not limited to ensemble computing and uncertainty quantification
+	-  New programming languages and constructs	for exploiting parallelism and locality
+
+[Important Dates]
+-Paper submission deadline: January 24, 2025 Anywhere on Earth (AoE)
+-Notification of acceptance: February 21, 2025 AoE
+-Camera-ready papers due: March 6, 2025 AoE
+-Workshop day: June 3 (IPDPS25 will be from June 3 to 5, 2025)
+
+[Steering Committee]
+Rudolf Eigenmann, University of Delaware, USA
+Michael Gerndt, Technische Universität München, Germany
+Frank Mueller, North Carolina State University, USA
+Martin Schulz, Technische Universität München, Germany
+
+[Organizers (Contact us)]
+Michael Gerndt, Technical University of Munich, Munich, Germany (gerndt.in.tum.de)
+Amir Raoofy, Leibniz Supercomputing Centre, Munich, Germany (amir.raoofy@tum.de)
+
+[Program Committee]
+Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand
+Balazs Gerofi, Intel, USA
+Barton Miller, University of Wisconsin, USA
+Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
+Christian Terboven, RWTH Aachen University, Germany
+Florina M. Ciorba, Universität Basel, Switzerland
+Giorgis Georgakoudis, Lawrence Livermore National Laboratory, USA
+James Lin, Shanghai Jiao Tong University, China
+Jeffrey Young, Georgia Institute of Technology, USA
+Josef Weidendorfer, Leibniz Supercomputing Centre, Munich, Germany
+Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
+Martin Kong, Ohio State University, USA
+Miwako Tsuji, RIKEN Center for Computational Science, Japan
+Mohammad Alaul Haque Monil, Oak Ridge National Laboratory, USA
+Nikela Papadopoulou, Chalmers University of Technology, Sweden
+Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland
+Qijing Jenny Huang, NVIDIA, USA
+Thomas Fahringer, University of Innsbruck, Austria
+Thorsten Hater, Jülich Supercomputing Center, Germany
+Tomohiro Ueno, RIKEN Center for Computational Science, Japan
+William Moses, Massachusetts Institute of Technology, USA
+
+[Manuscript submission]
+Authors are invited to submit original papers in two separate tracks:
+	- Full papers may not exceed 10 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. The authors, if accepted, will have the opportunity to present their work during the workshop.
+	- Short papers may not exceed 4 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. The authors, if accepted, will have the opportunity to give a short presentation during the workshop.
+All submissions should be formatted according to the IPDPS paper style (IEEE conference style, double-blind).
+Please submit papers through the IPDPS-HIPS Linklings site:
+https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2025 (tentative)
+
+[Proceedings]
+The accepted full papers will be published in the IPDPS 2025 Workshops proceedings by the IEEE Xplore Digital Library.
+(Short papers will not appear in the proceedings.)
+Presentation of an accepted paper at the conference is a requirement of publication.
+Any paper that is not presented at the conference will not be included in IEEE Xplore.
