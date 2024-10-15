@@ -10,7 +10,7 @@ The 30th HIPS workshop, to be held as a full-day meeting at the IPDPS 2025 confe
 
 # Program
 
-Workshop day: June 3 (IPDPS25 will be from June 3 to 5, 2025)
+Workshop day: June 3 (IPDPS25 will be from June 3 to 7, 2025)
 
 Program details will be provided at a later time.
 
@@ -136,7 +136,7 @@ opportunity to present their work during the workshop.
 figures, tables, and references. The authors, if accepted, will have the
 opportunity to give a short presentation during the workshop.
 
-All submissions should be formatted according to the IPDPS paper style (IEEE conference style, double-blind).
+All submissions should be formatted according to the IPDPS paper style (IEEE conference style, single-blind).
 
 Please submit papers through [the IPDPS-HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2025)
 
@@ -163,19 +163,25 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Martin Schulz, Technische Universität München, Germany
 
 ## Program Committee
+- Andreas Wilhelm, CQSE GmbH, Germany
+- Anshul Jindal, Nvidia, Germany
 - Balazs Gerofi, Intel, USA
 - Barton Miller, University of Wisconsin, USA
 - Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
 - Christian Terboven, RWTH Aachen University, Germany
 - Florina M. Ciorba, Universität Basel, Switzerland
+- Felix Wolf, Darmstadt University, Germany
 - Giorgis Georgakoudis, Lawrence Livermore National Laboratory, USA
 - James Lin, Shanghai Jiao Tong University, China
 - Josef Weidendorfer, Leibniz Supercomputing Centre, Munich, Germany
 - Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
 - Martin Kong, Ohio State University, USA
 - Miwako Tsuji, RIKEN Center for Computational Science, Japan
+- Mohak Chadha, Nvidia, Germany
 - Mohammad Alaul Haque Monil, Oak Ridge National Laboratory, USA
-- Nikela Papadopoulou, Chalmers University of Technology, Sweden
+- Nikela Papadopoulou, University of Glasgow, UK
+- Siegfried Benkner, Universität Wien, Austria
+- Shajulin Benedict, IIIT Kottayam, India
 - Thomas Fahringer, University of Innsbruck, Austria
 - Thorsten Hater, Jülich Supercomputing Center, Germany
 - Tomohiro Ueno, RIKEN Center for Computational Science, Japan
