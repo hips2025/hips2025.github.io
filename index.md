@@ -163,12 +163,15 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Martin Schulz, Technische Universität München, Germany
 
 ## Program Committee
+TBA.
+<!---
 - Andreas Knüpfer, TU Dresden, Germany
 - Andreas Wilhelm, CQSE GmbH, Germany
 - Anshul Jindal, Nvidia, Germany
-- Bernd Mohr, FZ Jülich, Germany
 - Balazs Gerofi, Intel, USA
 - Barton Miller, University of Wisconsin, USA
+- Beniamino Di Martino, Seconda Universita di Napoli
+- Bernd Mohr, FZ Jülich, Germany
 - Carina Haupt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany
 - Christian Terboven, RWTH Aachen University, Germany
 - Florina M. Ciorba, Universität Basel, Switzerland
@@ -178,17 +181,18 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Josef Weidendorfer, Leibniz Supercomputing Centre, Munich, Germany
 - Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
 - Martin Kong, Ohio State University, USA
+- Michael Philippsen, Friedrich-Alexander University Erlangen-Nürnberg , Germany
 - Miwako Tsuji, RIKEN Center for Computational Science, Japan
 - Mohak Chadha, Nvidia, Germany
 - Mohammad Alaul Haque Monil, Oak Ridge National Laboratory, USA
 - Nikela Papadopoulou, University of Glasgow, UK
+- Onkar Patil, IBM, USA
 - Shajulin Benedict, IIIT Kottayam, India
 - Siegfried Benkner, Universität Wien, Austria
 - Thomas Fahringer, University of Innsbruck, Austria
 - Thorsten Hater, Jülich Supercomputing Center, Germany
 - Tomohiro Ueno, RIKEN Center for Computational Science, Japan
-- Michael Philippsen, Friedrich-Alexander University Erlangen-Nürnberg , Germany
-- Beniamino Di Martino, Seconda Universita di Napoli
+-->
 
 [//]: # (William Moses, Massachusetts Institute of Technology, USA)
 [//]: # (Jeffrey Young, Georgia Institute of Technology, USA)
