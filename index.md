@@ -1,4 +1,4 @@
-![IPDPS 2025 Logo](/assets/2024-logo-200px.jpg)
+![IPDPS 2025 Logo](/assets/2025-logo-300px.jpg)
 
 # 30th International Workshop on High-Level Parallel Programming Models and Supportive Environments
 
