@@ -24,7 +24,7 @@ Topics of interest to the HIPS workshop include but are not limited to:
 	-  Solutions for programming paradigms for GPUs from different hardware vendors
 	-  Dynamism in applications and system resources
 	-  Performance portability
-	- Efforts for improving the sustainability of scientific software
+	-  Efforts for improving the sustainability of scientific software
 	-  Languages and runtime support for multi-science/coupled codes, including but	not limited to ensemble computing and uncertainty quantification
 	-  New programming languages and constructs	for exploiting parallelism and locality
 
