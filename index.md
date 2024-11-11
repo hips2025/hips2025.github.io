@@ -140,6 +140,8 @@ All submissions should be formatted according to the IPDPS paper style (IEEE con
 
 Please submit papers through [the IPDPS-HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2025)
 
+[HIPS 2025 Call for Papers](./HIPS25_CFP.txt)
+
 [IPDPS 2025 Call for Papers](http://www.ipdps.org/ipdps2025/2025-call-for-papers.html)
 
 # Proceedings
