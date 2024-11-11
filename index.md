@@ -163,7 +163,25 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Martin Schulz, Technische Universität München, Germany
 
 ## Program Committee
-TBA.
+- Ahmad Taraf, TU Darmstadt, Germany
+- Andreas Wilhelm, CQSE GmbH, Germany
+- Balazs Gerofi, Intel, USA
+- Barton Miller, University of Wisconsin, USA
+- Bernd Mohr, FZ Jülich, Germany
+- Christian Terboven, RWTH Aachen University, Germany
+- Giorgis Georgakoudis, Lawrence Livermore National Laboratory, USA
+- James Lin, Shanghai Jiao Tong University, China
+- Josef Weidendorfer, Leibniz Supercomputing Centre, Munich, Germany
+- Michael Philippsen, Friedrich-Alexander University Erlangen-Nürnberg , Germany
+- Miwako Tsuji, RIKEN Center for Computational Science, Japan
+- Mohak Chadha, Nvidia, Germany
+- Mohammad Alaul Haque Monil, Oak Ridge National Laboratory, USA
+- Nikela Papadopoulou, University of Glasgow, UK
+- Onkar Patil, IBM, USA
+- Shajulin Benedict, IIIT Kottayam, India
+- Siegfried Benkner, Universität Wien, Austria
+- Thomas Fahringer, University of Innsbruck, Austria
+- Tomohiro Ueno, RIKEN Center for Computational Science, Japan
 
 [//]: # (William Moses, Massachusetts Institute of Technology, USA)
 [//]: # (Jeffrey Young, Georgia Institute of Technology, USA)
