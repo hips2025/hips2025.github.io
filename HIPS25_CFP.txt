@@ -20,7 +20,7 @@ Topics of interest to the HIPS workshop include but are not limited to:
 	-  Compiler analysis and optimization techniques
 	-  OS and architectural support for parallel programming and debugging
 	-  Software and system support for extreme scalability including fault tolerance and power-aware HPC
-	-  Programming environments for	heterogeneous multicore systems and	accelerators such as GPUs and FPGAs
+	-  Programming environments for	heterogeneous multicore systems and accelerators such as GPUs and FPGAs
 	-  Solutions for programming paradigms for GPUs from different hardware vendors
 	-  Dynamism in applications and system resources
 	-  Performance portability
