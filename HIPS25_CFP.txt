@@ -29,7 +29,7 @@ Topics of interest to the HIPS workshop include but are not limited to:
 	-  New programming languages and constructs for exploiting parallelism and locality
 
 [Important Dates]
--Paper submission deadline: January 24, 2025 Anywhere on Earth (AoE)
+-Paper submission deadline: January 17, 2025 Anywhere on Earth (AoE)
 -Notification of acceptance: February 21, 2025 AoE
 -Camera-ready papers due: March 6, 2025 AoE
 -Workshop day: June 3 (IPDPS25 will be from June 3 to 7, 2025)
