@@ -117,7 +117,7 @@ Topics of interest to the HIPS workshop include but are not limited to:
 # Important Deadlines
 
 
-Submission due date: January 17, 2025 Anywhere on Earth (AoE)
+Submission due date: <strike>January 17 2025</strike> January 27 2025 (extended), Anywhere on Earth (AoE)
 
 Author notification: February 21st, 2025 AoE
 
