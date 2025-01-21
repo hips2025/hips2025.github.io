@@ -11,6 +11,8 @@ The 30th HIPS workshop, to be held as a full-day meeting at the IPDPS 2025 confe
 # News
 ## Submission due extended to January 27, 2025, AoE
 
+---
+---
 
 # Program
 
@@ -18,6 +20,8 @@ Workshop day: June 3 (IPDPS25 will be from June 3 to 7, 2025)
 
 Program details will be provided at a later time.
 
+---
+---
 <!---
 
 May 31, 2025 \\
@@ -118,6 +122,9 @@ Topics of interest to the HIPS workshop include but are not limited to:
 -  Languages and runtime support for multi-science/coupled codes, including but	not limited to ensemble computing and uncertainty quantification
 -  New programming languages and constructs	for exploiting parallelism and locality
 
+---
+---
+
 # Important Deadlines
 
 
@@ -126,6 +133,9 @@ Submission due date: <strike>January 17 2025</strike> January 27 2025 (extended)
 Author notification: February 21st, 2025 AoE
 
 Camera-ready papers: March 6th, 2025 AoE
+
+---
+---
 
 # Submission
 Authors are invited to submit original papers in two separate tracks:
@@ -148,12 +158,18 @@ Please submit papers through [the IPDPS-HIPS Linklings site](https://ssl.linklin
 
 [IPDPS 2025 Call for Papers](http://www.ipdps.org/ipdps2025/2025-call-for-papers.html)
 
+---
+---
+
 # Proceedings
 
 The accepted full papers will be published in the IPDPS 2025 Workshops proceedings by the IEEE Xplore Digital Library.
 (Short papers will not appear in the proceedings.)
 Presentation of an accepted paper at the conference is a requirement of publication.
 Any paper that is not presented at the conference will not be included in IEEE Xplore.
+
+---
+---
 
 # Committees
 
