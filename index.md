@@ -8,6 +8,10 @@ The 30th HIPS workshop, to be held as a full-day meeting at the IPDPS 2025 confe
 ---
 ---
 
+# News
+## Submission due extended to January 27, 2025, AoE
+
+
 # Program
 
 Workshop day: June 3 (IPDPS25 will be from June 3 to 7, 2025)
