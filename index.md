@@ -10,6 +10,7 @@ The 30th HIPS workshop, to be held as a full-day meeting at the IPDPS 2025 confe
 
 # News
 ## Submission due extended to January 27, 2025, AoE
+## Camera ready due extended to March 13th, 2025 AoE
 
 ---
 ---
@@ -132,7 +133,7 @@ Submission due date: <strike>January 17 2025</strike> January 27 2025 (extended)
 
 Author notification: February 21st, 2025 AoE
 
-Camera-ready papers: March 6th, 2025 AoE
+Camera-ready papers: <strike>March 6th, 2025 AoE</strike> March 13th, 2025 AoE
 
 ---
 ---
