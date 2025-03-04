@@ -103,6 +103,8 @@ Moderator: Seyong Lee (Oak Ridge National Laboratory)**
 # Registration
 Attendance at this workshop is part of the registration for IPDPS 2025. See [here](http://www.ipdps.org/ipdps2025/2025-registration.html) to register.
 
+Note: at least one author of each paper must be registered for the symposium by March 31st in order for the paper to be published in the proceedings. It must be a full registration unless the sole author of the paper is a student.
+
 # Topics of Interest
 Topics of interest to the HIPS workshop include but are not limited to:
 -  High-level and domain-specific programming systems
