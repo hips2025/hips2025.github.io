@@ -11,6 +11,7 @@ The 30th HIPS workshop, to be held as a full-day meeting at the IPDPS 2025 confe
 # News
 ## Submission due extended to January 27, 2025, AoE
 ## Camera ready due extended to March 13th, 2025 AoE
+## Workshop program is available below.
 
 ---
 ---
@@ -19,18 +20,73 @@ The 30th HIPS workshop, to be held as a full-day meeting at the IPDPS 2025 confe
 
 Workshop day: June 3 (IPDPS25 will be from June 3 to 7, 2025)
 
-Program details will be provided at a later time.
+June 3, 2025 \\
+09:00 - 17:30 CEST
+
+## Welcome Remarks
+09:00 - 09:05 CEST \\
+**Michael Gerndt** (Technical University of Munich)
+
+## Celebrating Three Decades of HIPS
+09:05 - 09:30 CEST \\
+**Michael Gerndt** (Technical University of Munich)
+
+## Keynote
+09:30 - 10:30 CEST \\
+t.b.a
+
+## Coffee Break
+10:30 - 11:00 CEST
+
+## Paper Session One
+10:30 - 12:30 CEST
+
+**Serverless IoT Framework**\\
+**Isaac Nunez**
+
+**Advances in Semantic Patching for HPC-oriented Refactorings with Coccinelle**\\
+**Michele Martone**, Julia Lawall
+
+**SpMM-Bench: Performance Characterization of Sparse Formats for Sparse-Dense Matrix Multiplication**\\
+Patrick Flynn, **Xinyao Yi**, Erik Saule, Gokcen Kestor, Yonghong Yan
+
+## Lunch Break
+12:30 - 14:00 CEST
+
+## Paper Session Two
+14:00 - 16:00 CEST
+
+**The Case for ABI Interoperability in a Fault Tolerant MPI**\\
+**Yao Xu**, Grace Nansamba, Anthony Skjellum, Gene Cooperman
+
+**Exploring Communication Anomalies in Chapel**\\
+**Raneem Abu-Yosef**, Bokyeong Yoon, Martin Kong
+
+**Implementing Directive-Based Deferred Execution for Effective Network Aggregation**\\
+**Aaron Welch**, Oscar Hernandez, Stephen Poole, Wendy Poole
+
+**Data Transfer Schemes in the High-Level Communication Library LAIK**\\
+Josef Weidendorfer, Lukas Neef, Robert Hubinger, **Amir Raoofy**
+
+## Coffee Break
+16:00 - 16:30 CEST
+
+## Paper Session Three
+16:30 - 17:30 CEST
+
+**SYCL for HPC: Adapting to Diverse CPU Architecture**\\
+**Ashish Bisht**, Aniket Garade, Deepika H. V., Haribabu P., S. A. Kumar, S. D. Sudarsan
+
+**LibraryX-ASIC: A First Look**\\
+Sanil Rao, **Larry Tang**, Franz Franchetti
+
+## Closing Remarks
+17:30 - 17:35 PDT \\
+**Michel Gerndt** (Technical University of Munich)
 
 ---
 ---
 <!---
-
-May 31, 2025 \\
-09:00 - 16:40 PDT
-
-## Welcome Remarks
-09:00 - 09:05 PDT \\
-**Seyong Lee (Oak Ridge National Laboratory)**
 
 ## Keynote
 09:05 - 10:00 PDT
@@ -89,9 +145,6 @@ Yectli Huerta
 **Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University), Dong Li (University of California, Merced), and  HsinYu Tsai (IBM Research) \\
 Moderator: Seyong Lee (Oak Ridge National Laboratory)**
 
-## Closing Remarks
-16:30 - 16:40 PDT \\
-**Seyong Lee (Oak Ridge National Laboratory)**
 -->
 
 <!---
