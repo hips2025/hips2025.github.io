@@ -17,11 +17,8 @@ The 30th HIPS workshop, to be held as a full-day meeting at the IPDPS 2025 confe
 ---
 
 # Program
-
-Workshop day: June 3 (IPDPS25 will be from June 3 to 7, 2025)
-
 June 3, 2025 \\
-09:00 - 17:30 CEST
+09:00 - 17:35 CEST
 
 ## Welcome Remarks
 09:00 - 09:05 CEST \\
