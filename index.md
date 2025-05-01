@@ -30,7 +30,19 @@ June 3, 2025 \\
 
 ## Keynote
 09:30 - 10:30 CEST \\
-t.b.a
+
+**Title: Reflections on 30 years of HPC programming: So many hardware advances, so little adoption of new languages**  \\
+**Bradford Chamberlain, Hewlett Packard Enterprise**
+
+Abstract: \\
+“Programming language design ceased to be relevant in the 1980s.”  So proclaimed a rejection of one of our first HPC language papers roughly 30 years ago.  Yet since then, programmers have experienced the advent, and rise in popularity, of languages such as Java, Javascript, C#, Python, Go, Swift, Julia, and Rust, among others.  These new languages have clearly made strides in areas such as safety, productivity, and parallelism, and in many cases they have become the favorite day-to-day languages of programmers spanning many disciplines.  However, when we reflect on the past 30 years of programming languages for HPC, the situation is not nearly as rosy.  Though many languages have been developed, and a great deal of interesting and compelling work has been achieved and published at venues like HIPS and IPDPS, the programming models used in practice for HPC are much as they were back then:  Fortran, C, C++, MPI, SHMEM, and OpenMP remain the dominant technologies, and SPMD programming and execution are still very much the norm.
+
+Meanwhile, HPC systems have undergone significant transformations over that same period, incorporating multicore processors, multi-socket compute nodes, high-radix/low-diameter network interconnects, NUMA memory architectures, and the rise of GPU computing.  GPUs in particular have arguably resulted in the largest number of new HPC programming models as the community wrestles with how to program GPU-enabled supercomputers effectively.  In the face of these advances, it can often feel as though we have lost ground in terms of programmer productivity during the HIPS era, as systems have become more complex while programming models have remained relatively static.
+
+In this talk, I will give my perspective on the past 30 years of HPC programming languages and models.  In doing so, I will summarize the challenges and barriers to adopting new models, while also arguing for the continuing importance of striving to develop practical, adoptable languages that address the key concerns of HPC programming: specifying parallelism and locality.  Along the way, I will summarize some of the successes of Chapel, a high-level parallel programming language developed by my team at Cray and HPE.  I will also briefly introduce Arkouda—a supportive environment in the form of an extensible Python library that supports driving HPC systems interactively from the comfort of a Jupyter notebook.  Finally, I will describe a vision for changes to the HPC community’s mindset and practices that would help foster the possibility of adopting new, productive languages going forward.
+
+Biography: \\
+Brad Chamberlain is a Distinguished Technologist at Hewlett Packard Enterprise (formerly Cray Inc.) who has spent his career focused on productivity for users of high-performance computing (HPC) systems, particularly through the design and development of the Chapel parallel programming language  (https://chapel-lang.org) as well as contributions to the Arkouda library framework for Python (https://arkouda-www.github.io/).  He received his Ph.D. in Computer Science & Engineering from the University of Washington in 2001, where he focused on the ZPL data-parallel array language; and he remains associated with the department as an affiliate professor of the Paul G. Allen School.  Brad is a staunch advocate for the importance of better parallel programming languages, models, and tools, particularly for HPC programmers.  He is honored to have the opportunity to speak at HIPS this year, as it’s been an important workshop during his career, serving as the venue for the original Chapel paper and a foundational ZPL paper, among others.
 
 ## Coffee Break
 10:30 - 11:00 CEST
@@ -83,73 +95,7 @@ Sanil Rao, **Larry Tang**, Franz Franchetti
 
 ---
 ---
-<!---
 
-## Keynote
-09:05 - 10:00 PDT
-
-
-**Title: Architecture and Programming of Analog In-Memory- Computing Accelerators for Deep Neural Networks** \\
-**Dr. HsinYu (Sidney) Tsai (IBM Research)**
-
-Abstract: \\
-Deep Neural Networks (DNNs) have demonstrated revolutionary capabilities in AI, such as machine vision, natural language processing, and content generation. However, the growing energy usage due to the excessive amount of data communication between compute and memory units highlights the need to address the “Von Neumann bottleneck.” In-memory computing can achieve high throughput and energy efficiency by computing multiply-accumulate (MAC) operations using Ohm’s law and Kirchhoff’s current law on arrays of resistive memory devices.
-In recent years, Analog non-volatile memory (NVM)-based accelerators with energy-efficient, weight-stationary MAC operations in analog NVM memory-array “Tiles” have been demonstrated in hardware using Phase Change Memory (PCM) devices integrated in the backend of 14-nm CMOS. Based on the hardware demonstrations, we propose a highly heterogeneous and programmable accelerator architecture that takes advantage of a dense and efficient circuit-switched 2D mesh. This flexible architecture can accelerate Transformer, Long-Short-Term-Memory (LSTM), and Convolution Neural Networks (CNNs) while keeping data communication local and massively parallel. We show that by co-optimizing memory devices, DNN algorithms, and specialized digital circuits, competitive end-to-end DNN accuracies can be obtained with the help of hardware-aware training.
-The author would like to thank all colleagues at IBM Research Almaden, Yorktown, Albany NanoTech, Zurich and Tokyo for their contributions to this work and the IBM Research AI HW Center.
-
-Biography: \\
-HsinYu (Sidney) Tsai received her Ph.D. from the Electrical Engineering and Computer Science department at Massachusetts Institute of Technology in 2011. After graduation, Sidney joined the IBM T.J. Watson Research Center and developed directed self-assembly (DSA) lithography for finFETs. Sidney managed an Advanced Lithography group in 2016, overseeing operations of a 200mm research prototyping line. She now works in the Almaden Research Center in San Jose, CA, as a Principal Research Staff Member and manager of the Analog AI group, focusing on training and inference of Deep Neural Networks using emerging non-volatile memories, such as Phase Change Memory.
-
-## Coffee Break
-10:00 - 10:30 PDT
-
-## Paper Session One
-10:30 - 12:00 PDT
-
-**eCC++ : A Compiler Construction Framework for Embedded Domain-Specific Languages** \\
-Marc Gonzalez Tallada, Joel Denny, Pedro Valero Lara, Seyong Lee, Keita Teranishi, and Jeffrey Vetter
-
-**Comprehensive Study for Just-In-Time Pack Functions in Open MPI** \\
-Yicheng Li, Joseph Schuchart, and George Bosilca
-
-**Dynamic Resource Management for Elastic Scientific Workflows using PMIx** \\
-Rajat Bhattarai, Howard Pritchard, and Sheikh Ghafoor
-
-## Lunch Break
-12:00 - 13:00 PDT
-
-## Paper Session Two
-13:00 - 15:00 PDT
-
-**GrOUT: Transparent Scale-Out to Overcome UVM’s Oversubscription Slowdowns** \\
-Ian Di Dio Lavore, Davide Maffi, Marco Arnaboldi, Arnaud Delamare, Daniele Bonetta, Marco Domenico Santambrogio
-
-**Towards Fine-grained Parallelism in Parallel and Distributed Python Libraries** \\
-Jamison Kerney, Johnny Raicu, Kyle Chard, and  Ioan Raicu
-
-**Automated Data Analysis for Defining Performance Metrics from Raw Hardware Events** \\
-Daniel Barry, Anthony Danalis, and Jack Dongarra
-
-**Performance Analysis of the NVIDIA HPC SDK and AMD AOCC Compilers in an HPC Cluster Using Pooled, Robust and Relative Metrics** \\
-Yectli Huerta
-
-## Coffee Break
-15:00 - 15:30 PDT
-
-## Panel
-15:30 - 16:30 PDT \\
-**Panel Theme: AI for HPC and HPC for AI** \\
-**Panelists: Min Si (Facebook), Ali Jannesari (Iowa State University), Dong Li (University of California, Merced), and  HsinYu Tsai (IBM Research) \\
-Moderator: Seyong Lee (Oak Ridge National Laboratory)**
-
--->
-
-<!---
-
----
----
-
--->
 # Registration
 Attendance at this workshop is part of the registration for IPDPS 2025. See [here](http://www.ipdps.org/ipdps2025/2025-registration.html) to register.
 
