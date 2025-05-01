@@ -30,7 +30,6 @@ June 3, 2025 \\
 
 ## Keynote
 09:30 - 10:30 CEST \\
-
 **Title: Reflections on 30 years of HPC programming: So many hardware advances, so little adoption of new languages**  \\
 **Bradford Chamberlain, Hewlett Packard Enterprise**
 
@@ -42,7 +41,9 @@ Meanwhile, HPC systems have undergone significant transformations over that same
 In this talk, I will give my perspective on the past 30 years of HPC programming languages and models.  In doing so, I will summarize the challenges and barriers to adopting new models, while also arguing for the continuing importance of striving to develop practical, adoptable languages that address the key concerns of HPC programming: specifying parallelism and locality.  Along the way, I will summarize some of the successes of Chapel, a high-level parallel programming language developed by my team at Cray and HPE.  I will also briefly introduce Arkouda—a supportive environment in the form of an extensible Python library that supports driving HPC systems interactively from the comfort of a Jupyter notebook.  Finally, I will describe a vision for changes to the HPC community’s mindset and practices that would help foster the possibility of adopting new, productive languages going forward.
 
 Biography: \\
-Brad Chamberlain is a Distinguished Technologist at Hewlett Packard Enterprise (formerly Cray Inc.) who has spent his career focused on productivity for users of high-performance computing (HPC) systems, particularly through the design and development of the Chapel parallel programming language  (https://chapel-lang.org) as well as contributions to the Arkouda library framework for Python (https://arkouda-www.github.io/).  He received his Ph.D. in Computer Science & Engineering from the University of Washington in 2001, where he focused on the ZPL data-parallel array language; and he remains associated with the department as an affiliate professor of the Paul G. Allen School.  Brad is a staunch advocate for the importance of better parallel programming languages, models, and tools, particularly for HPC programmers.  He is honored to have the opportunity to speak at HIPS this year, as it’s been an important workshop during his career, serving as the venue for the original Chapel paper and a foundational ZPL paper, among others.
+Brad Chamberlain is a Distinguished Technologist at Hewlett Packard Enterprise (formerly Cray Inc.) who has spent his career focused on productivity for users of high-performance computing (HPC) systems, particularly through the design and development of the Chapel parallel programming language ([https://chapel-lang.org](https://chapel-lang.org)) as well as contributions to the Arkouda library framework for Python ([https://arkouda-www.github.io/](https://arkouda-www.github.io/)).  He received his Ph.D. in Computer Science & Engineering from the University of Washington in 2001, where he focused on the ZPL data-parallel array language; and he remains associated with the department as an affiliate professor of the Paul G. Allen School.  Brad is a staunch advocate for the importance of better parallel programming languages, models, and tools, particularly for HPC programmers.  He is honored to have the opportunity to speak at HIPS this year, as it’s been an important workshop during his career, serving as the venue for the original Chapel paper and a foundational ZPL paper, among others.
+
+<img src="./assets/Brad-LinuxCon.jpg" style="display: block; margin: 0 auto" width="50%"/>
 
 ## Coffee Break
 10:30 - 11:00 CEST
