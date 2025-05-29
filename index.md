@@ -67,7 +67,7 @@ Patrick Flynn, **Xinyao Yi**, Erik Saule, Gokcen Kestor, Yonghong Yan
 14:00 - 16:00 CEST
 
 **The Case for ABI Interoperability in a Fault Tolerant MPI**\\
-**Yao Xu**, Grace Nansamba, Anthony Skjellum, Gene Cooperman
+Yao Xu, Grace Nansamba, **Anthony Skjellum**, Gene Cooperman
 
 **Exploring Communication Anomalies in Chapel**\\
 **Raneem Abu-Yosef**, Bokyeong Yoon, Martin Kong
