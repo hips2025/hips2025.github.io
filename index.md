@@ -70,7 +70,7 @@ Patrick Flynn, **Xinyao Yi**, Erik Saule, Gokcen Kestor, Yonghong Yan
 Yao Xu, Grace Nansamba, **Anthony Skjellum**, Gene Cooperman
 
 **Exploring Communication Anomalies in Chapel**\\
-**Raneem Abu-Yosef**, Bokyeong Yoon, Martin Kong
+Raneem Abu-Yosef, **Bokyeong Yoon**, Martin Kong
 
 **Implementing Directive-Based Deferred Execution for Effective Network Aggregation**\\
 **Aaron Welch**, Oscar Hernandez, Stephen Poole, Wendy Poole
